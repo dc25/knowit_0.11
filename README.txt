@@ -1,14 +1,15 @@
+# using aptitude instead of apt-get due to apt-get "hash map" errors
 
+# uncomment the two "backports" lines in /etc/apt/sources.list 
 
 sudo aptitude update
 sudo aptitude safe-upgrade
 
+sudo aptitude install git-core
 sudo aptitude install build-essential
 sudo aptitude install kdebase-dev
 sudo aptitude install automake
 
-# uncomment the two "backports" lines in /etc/apt/sources.list 
-sudo aptitude install git-core
 
 # use git to fetch patch and knowit code with patch applied :
 git clone git://github.com/dc25/knowit_0.11.git  
