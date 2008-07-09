@@ -1,0 +1,1073 @@
+# translation of knowit-sk.po to Slovak
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Pavol Cvengros <orpheus@hq.alert.sk>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: knowit-sk\n"
+"POT-Creation-Date: 2004-03-31 14:12+0200\n"
+"PO-Revision-Date: 2003-04-28 09:35+0200\n"
+"Last-Translator: Pavol Cvengros <orpheus@hq.alert.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: knowitapp.moc.cpp:34 knowitapp.moc.cpp:42
+msgid "KnowitApplication"
+msgstr ""
+
+#: knowitchooser.cpp:35
+msgid "&Exported notes:"
+msgstr ""
+
+#: knowitchooser.cpp:38
+#, fuzzy
+msgid "All"
+msgstr "&Všetko"
+
+#: knowitchooser.cpp:39
+#, fuzzy
+msgid "Current with children"
+msgstr "Ak&tuálna s potomkami"
+
+#: knowitchooser.cpp:40
+#, fuzzy
+msgid "Current only"
+msgstr "Le&n aktuálna"
+
+#: knowitchooser.cpp:42
+msgid "&Encoding:"
+msgstr ""
+
+#: knowitchooser.cpp:45
+msgid "Local (8-bit)"
+msgstr ""
+
+#: knowitchooser.cpp:46
+msgid "UTF-8"
+msgstr ""
+
+# knowit.cpp:478
+# knowit.cpp:497
+#: knowitchooser.cpp:49
+#, fuzzy
+msgid "Numbered titles"
+msgstr "Názov poznámky:"
+
+#: knowitchooser.cpp:51 notes.cpp:249
+msgid "Table of contents"
+msgstr ""
+
+#: knowitchooser.cpp:53
+msgid "Rule betweeen notes"
+msgstr ""
+
+#: knowitchooser.cpp:55
+msgid "Use editor font and colors"
+msgstr ""
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowitchooser.moc.cpp:34 knowitchooser.moc.cpp:42
+msgid "KnowitChooser"
+msgstr "Knowit výber"
+
+# knowit.cpp:35
+#: knowit.cpp:53
+msgid "untitled"
+msgstr "nepomenované"
+
+# knowit.cpp:40
+#: knowit.cpp:59
+msgid "Ready"
+msgstr "Pripravený"
+
+#: knowit.cpp:74
+msgid "Move it to change tree/edit layout."
+msgstr "Presuňte ju ak chcete zmeniť stromovu štruktúru."
+
+#: knowit.cpp:85
+msgid ""
+"<h2>Note text</h2>Add text for selected note here.\n"
+"Text can be formatted, for example <b>bold</b> or <i>italic</i>."
+msgstr ""
+"<h2>Text poznámky</h2>Tu zadajte text pre vybranú poznámku.\n"
+"Text môže byť formátovaný, napríklad <b>tučný</b> alebo <i>šikmý</i>."
+
+# knowit.cpp:94
+#: knowit.cpp:111
+msgid "&Export to HTML..."
+msgstr "&Exportovať do HTML..."
+
+# knowit.cpp:97
+#: knowit.cpp:114
+msgid "Document &information..."
+msgstr "&Informácie o dokumente..."
+
+# knowit.cpp:101
+#: knowit.cpp:124
+msgid "Toggle &bold"
+msgstr "Prepnúť &tučné"
+
+# knowit.cpp:103
+#: knowit.cpp:126
+msgid "Toggle &italic"
+msgstr "Prepnúť š&ikmé"
+
+# knowit.cpp:105
+#: knowit.cpp:129
+msgid "Toggle &underline"
+msgstr "Prepnúť podtrhn&uté"
+
+# knowit.cpp:107
+#: knowit.cpp:132
+msgid "&Text color..."
+msgstr "Farba &textu..."
+
+#: knowit.cpp:134
+msgid "&Superscript"
+msgstr "&Superscript"
+
+#: knowit.cpp:136
+msgid "&Subscript"
+msgstr "&Subscript"
+
+#: knowit.cpp:138
+msgid "&Normal text"
+msgstr "&Normálny text"
+
+#: knowit.cpp:140
+msgid "&Bullet list"
+msgstr ""
+
+# knowit.cpp:478
+# knowit.cpp:497
+#: knowit.cpp:142
+#, fuzzy
+msgid "&Numbered list"
+msgstr "Názov poznámky:"
+
+#: knowit.cpp:144
+msgid "&Uppercase list"
+msgstr ""
+
+#: knowit.cpp:146
+msgid "&Lowercase list"
+msgstr ""
+
+#: knowit.cpp:148
+msgid "N&o list"
+msgstr ""
+
+# knowit.cpp:111
+#: knowit.cpp:152
+msgid "&Go to &note..."
+msgstr "&Choď na poznámku..."
+
+#: knowit.cpp:154
+msgid "Align &left"
+msgstr "Zarovnať &vľavo"
+
+#: knowit.cpp:156
+msgid "Align &right"
+msgstr "Zarovnať vp&ravo"
+
+#: knowit.cpp:158
+msgid "&Justify"
+msgstr "&Vyrovnať"
+
+#: knowit.cpp:160
+msgid "&Center"
+msgstr "&Centrovať"
+
+# knowit.cpp:113
+#: knowit.cpp:162
+msgid "Insert &date"
+msgstr "Vložiť &dátum"
+
+# knowit.cpp:113
+#: knowit.cpp:164
+msgid "Insert &file..."
+msgstr "Vložiť &súbor..."
+
+#: knowit.cpp:166
+msgid "&Raw Text Mode"
+msgstr "P&riamy textový mód"
+
+#: knowit.cpp:179
+msgid "&Add"
+msgstr "Prid&ať"
+
+# knowit.cpp:120
+#: knowit.cpp:181
+msgid "Add &subnote"
+msgstr "Pridať po&dpoznámku"
+
+# knowit.cpp:126
+#: knowit.cpp:185
+msgid "&Rename"
+msgstr "P&remenovať"
+
+# knowit.cpp:128
+#: knowit.cpp:187
+msgid "E&xpand all"
+msgstr "Ro&zbaliť všetko"
+
+# knowit.cpp:130
+#: knowit.cpp:189
+msgid "&Expand current"
+msgstr "&Rozbaliť aktuálnu"
+
+# knowit.cpp:132
+#: knowit.cpp:191
+msgid "Co&llapse all"
+msgstr "Zba&liť všetky"
+
+# knowit.cpp:134
+#: knowit.cpp:193
+msgid "&Collapse current"
+msgstr "Z&baliť aktuálnu"
+
+#: knowit.cpp:195
+msgid "Move up"
+msgstr "Presunúť vyššie"
+
+#: knowit.cpp:197
+msgid "Move down"
+msgstr "Presunúť nižšie"
+
+#: knowit.cpp:199
+msgid "Move level up"
+msgstr "Presunúť o úroveň vyššie"
+
+#: knowit.cpp:201
+msgid "Move level down"
+msgstr "Presunúť o úroveň nižšie"
+
+#: knowit.cpp:203
+msgid "Move at the beginning"
+msgstr "Presunúť na začiatok"
+
+#: knowit.cpp:205
+msgid "Move at the end"
+msgstr "Presunúť na koniec"
+
+#: knowit.cpp:207
+msgid "Sort"
+msgstr "Usporiadať"
+
+# knowit.cpp:118
+#: knowit.cpp:211
+#, fuzzy
+msgid "&Add link..."
+msgstr "Prid&ať poznámku..."
+
+#: knowit.cpp:213
+msgid "&Remove link"
+msgstr ""
+
+#: knowit.cpp:215
+msgid "Open link"
+msgstr ""
+
+# knowit.cpp:600
+#: knowit.cpp:217
+#, fuzzy
+msgid "Open link with..."
+msgstr "Otvoriť súbor..."
+
+#: knowit.cpp:219
+msgid "&Modify link..."
+msgstr ""
+
+#: knowit.cpp:221
+msgid "&Copy link location"
+msgstr ""
+
+#: knowit.cpp:230
+msgid "&Tip of the day"
+msgstr "&Tip dňa"
+
+#: knowit.cpp:234
+msgid "Minimize"
+msgstr ""
+
+# knowit.cpp:115
+#: knowit.cpp:236
+msgid "Switch area"
+msgstr "Zmeniť oblasť"
+
+#: knowit.cpp:238
+msgid "Overwrite Mode"
+msgstr "Prepisovací mód"
+
+#: knowit.cpp:240
+msgid "Go to previous note"
+msgstr "Choď na predchádzajúcu poznámku"
+
+# knowit.cpp:111
+#: knowit.cpp:242
+msgid "Go to next note"
+msgstr "Choď na následujúcu poznámku"
+
+# knowit.cpp:111
+#: knowit.cpp:244
+msgid "Go to first note"
+msgstr "Choď na prvú poznámku"
+
+# knowit.cpp:111
+#: knowit.cpp:246
+msgid "Go to last note"
+msgstr "Choď na poslednú poznámku"
+
+# knowit.cpp:124
+#: knowit.cpp:248
+msgid "Go to first subnote"
+msgstr "Choď na prvú podpoznámku"
+
+# knowit.cpp:767
+#: knowit.cpp:250
+msgid "Go to parent note"
+msgstr "Choď na nadradenú poznámku"
+
+#: knowit.cpp:262 knowit.cpp:1228
+msgid "INS"
+msgstr "INS"
+
+#: knowit.cpp:306
+msgid ""
+"<qt><p>Cannot open resource file <b>knowitui.rc</b>. Some of the menus and "
+"toolbars will be missing.</p><p>Probably Knowit was not installed properly. "
+"If you installed from source, please invoke <i>make install</i>.If you use "
+"precompiled package, please contact packager.</p></qt>"
+msgstr ""
+
+# knowit.cpp:222
+#: knowit.cpp:323 knowit.cpp:1131
+msgid "<qt>Cannot open file<br><b>%1</b></qt>"
+msgstr "<qt>Nemôžem otvoriť súbor<br><b>%1</b></qt>"
+
+#: knowit.cpp:374
+msgid "File %1 opened."
+msgstr "Súbor %1 bol otvorený."
+
+# knowit.cpp:301
+#: knowit.cpp:389
+msgid "<qt>Cannot save file<br><b>%1</b></qt>"
+msgstr "<qt>Nemôžem uložiť súbor<br><b>%1</b></qt>"
+
+#: knowit.cpp:405
+msgid "File %1 saved."
+msgstr "Súbor %1 bol uložený."
+
+# knowit.cpp:346
+#: knowit.cpp:441
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"cannot be saved. Quit anyway?</qt>"
+msgstr ""
+"<qt>Súbor <b>%1</b>\n"
+"bol modifikovaný. Chcete ho uložiť?</qt>"
+
+# knowit.cpp:346
+#: knowit.cpp:446
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"was modified. Do you want to save it?</qt>"
+msgstr ""
+"<qt>Súbor <b>%1</b>\n"
+"bol modifikovaný. Chcete ho uložiť?</qt>"
+
+# knowit.cpp:35
+#: knowit.cpp:463
+#, fuzzy
+msgid "untitled.kno"
+msgstr "nepomenované"
+
+# knowit.cpp:384
+#: knowit.cpp:489
+msgid "<qt>Sought text:<br><b>%1</b><br>not found.</qt>"
+msgstr "<qt>Hľadaný text:<br><b>%1</b><br>nebol nájdený.</qt>"
+
+# knowit.cpp:477
+#: knowit.cpp:621
+msgid "Add note"
+msgstr "Pridať poznámku"
+
+# knowit.cpp:478
+# knowit.cpp:497
+#: knowit.cpp:622 knowit.cpp:646
+msgid "Note title:"
+msgstr "Názov poznámky:"
+
+# knowit.cpp:504
+#: knowit.cpp:641
+msgid "You have to choose note before adding subnote."
+msgstr "Musíte si vybrať poznámku pred pridaním podpoznámky."
+
+# knowit.cpp:120
+#: knowit.cpp:645
+msgid "Add subnote"
+msgstr "Pridať podpoznámku"
+
+# knowit.cpp:512
+#: knowit.cpp:666
+msgid ""
+"<qt>Are you sure you want to delete note<br><b>%1</b><br> and its subnotes?</"
+"qt>"
+msgstr ""
+"<qt>Ste si istý že chcete odstrániť poznámku<br><b>%1</b><br> a jej "
+"podpoznámky?</qt>"
+
+# knowit.cpp:514
+#: knowit.cpp:668
+msgid "<qt>Are you sure you want to delete note<br><b>%1</b>?</qt>"
+msgstr "<qt>Ste si istý že chcete odstrániť poznámku<br><b>%1</b>?</qt>"
+
+# knowit.cpp:600
+# knowit.cpp:625
+#: knowit.cpp:838 knowit.cpp:875
+#, fuzzy
+msgid ""
+"*.kno|KnowIt files (*.kno)\n"
+"*|All files"
+msgstr ""
+"*.kno|KnowIt súbory (*.kno)\n"
+"*|Všetky súbory"
+
+# knowit.cpp:600
+#: knowit.cpp:838
+msgid "Open File..."
+msgstr "Otvoriť súbor..."
+
+#: knowit.cpp:857
+msgid ""
+"<qt><p>File couldn not be saved automatically.<p>Autosaving disabled - save "
+"file manually to turn autosaving on.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:875
+msgid "Save as..."
+msgstr "Uložiť ako..."
+
+# knowit.cpp:631
+# knowit.cpp:717
+#: knowit.cpp:881 knowit.cpp:973
+msgid "<qt>File<br><b>%1</b><br>already exists. Overwrite it?</qt>"
+msgstr "<qt>Súbor<br><b>%1</b><br>už existuje. Mám ho prepísať?</qt>"
+
+# knowit.cpp:647
+#: knowit.cpp:897
+msgid "<qt><h1>%1</h1>Document path: %2<br>Number of notes: %3</qt>"
+msgstr "<qt><h1>%1</h1>Cesta dokumentu: %2<br>Počet poznámok: %3</qt>"
+
+# knowit.cpp:711
+#: knowit.cpp:967
+msgid ""
+"*.html|HTML files (*.html)\n"
+"*|All files"
+msgstr ""
+"*.html|HTML súbory (*.html)\n"
+"*|Všetky súbory"
+
+# knowit.cpp:711
+#: knowit.cpp:967
+msgid "Export to HTML"
+msgstr "Export do HTML"
+
+# knowit.cpp:766
+#: knowit.cpp:1092
+msgid "Go to"
+msgstr "Choď na"
+
+# knowit.cpp:767
+#: knowit.cpp:1093
+msgid "Go to page with given title"
+msgstr "Choď na stranu s zadaným názvom"
+
+#: knowit.cpp:1126 knowitlink.cpp:90
+msgid "*|All files"
+msgstr "*|Všetky súbory"
+
+# knowit.cpp:113
+#: knowit.cpp:1126
+msgid "Insert file..."
+msgstr "Vložiť súbor..."
+
+#: knowit.cpp:1227
+msgid "OVR"
+msgstr "OVR"
+
+#: knowit.cpp:1263
+msgid ""
+"You have just added your first link. Please remember that only links are "
+"stored in Knowit document, not linked files. If you move your document to "
+"other computer, links to local files probably won't work."
+msgstr ""
+
+# knowit.cpp:514
+#: knowit.cpp:1273
+#, fuzzy
+msgid "<qt>Are you sure you want to remove link:<br><b>%1</b>?</qt>"
+msgstr "<qt>Ste si istý že chcete odstrániť poznámku<br><b>%1</b>?</qt>"
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowitedit.moc.cpp:34 knowitedit.moc.cpp:42
+#, fuzzy
+msgid "KnowitEdit"
+msgstr "Knowit"
+
+#: knowitlink.cpp:34
+msgid "Modify link"
+msgstr ""
+
+#: knowitlink.cpp:40
+msgid "Referenced item:"
+msgstr ""
+
+#: knowitlink.cpp:42
+msgid "File or URL"
+msgstr ""
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowitlink.cpp:43
+#, fuzzy
+msgid "KnowIt note"
+msgstr "Knowit"
+
+#: knowitlink.cpp:55
+msgid "Link description:"
+msgstr ""
+
+# knowit.cpp:478
+#: knowitlink.cpp:90
+#, fuzzy
+msgid "Choose link..."
+msgstr "Vyberte si poznámky"
+
+#: knowitlink.moc.cpp:34 knowitlink.moc.cpp:42
+msgid "KnowitLinkDialog"
+msgstr ""
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowitlinks.moc.cpp:34 knowitlinks.moc.cpp:42
+#, fuzzy
+msgid "KnowitLinks"
+msgstr "Knowit"
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowit.moc.cpp:34 knowit.moc.cpp:42
+msgid "Knowit"
+msgstr "Knowit"
+
+# knowit.cpp:478
+#: knowitpref.cpp:96
+msgid "New note"
+msgstr "Nová poznámka"
+
+#: knowitpref.cpp:132
+msgid "KnowIt Preferences"
+msgstr "Nastavenia KnowIt"
+
+# knowitpref.cpp:44
+#: knowitpref.cpp:138
+#, fuzzy
+msgid "General"
+msgstr "&Hlavné"
+
+# knowitpref.cpp:44
+#: knowitpref.cpp:138
+msgid "General options"
+msgstr "Hlavné nastavenia"
+
+# knowitpref.cpp:45
+#: knowitpref.cpp:141
+msgid "&Dock in System tray"
+msgstr "&Umiestniť v systémovom panely"
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:142
+msgid "Open &last file on startup"
+msgstr "Otvoriť pos&ledný súbor pri štarte"
+
+#: knowitpref.cpp:146
+msgid "Autosave:"
+msgstr "Automatické ukladanie:"
+
+#: knowitpref.cpp:148
+msgid "every "
+msgstr "každý"
+
+#: knowitpref.cpp:149
+msgid " min."
+msgstr " min."
+
+#: knowitpref.cpp:150
+msgid "Never"
+msgstr "Nikdy"
+
+#: knowitpref.cpp:151
+msgid ""
+"Current file will be automatically saved after the specified interval. Set "
+"to <i>never</i> to disable autosave."
+msgstr ""
+"Aktuálny súbor bude automaticky uložený po špecifikovanom intervale. "
+"Nastavte na <i>Nikdy</i> pre zakázanie automatického ukladania."
+
+#: knowitpref.cpp:154
+#, fuzzy
+msgid "Automatically save file on e&xit"
+msgstr "Automaticky zložiť iné poznámky"
+
+#: knowitpref.cpp:156
+#, fuzzy
+msgid "Current file will be automatically saved on exit without confirmation."
+msgstr ""
+"Aktuálny súbor bude automaticky uložený po špecifikovanom intervale. "
+"Nastavte na <i>Nikdy</i> pre zakázanie automatického ukladania."
+
+#: knowitpref.cpp:158
+msgid "Create &backups"
+msgstr ""
+
+#: knowitpref.cpp:160
+msgid "Create backup of current document before it is saved."
+msgstr ""
+
+#: knowitpref.cpp:161
+msgid "Allow &multiple instances of KnowIt"
+msgstr ""
+
+#: knowitpref.cpp:163
+msgid ""
+"If this option is disabled, only one instance of KnowIt will be allowed. If "
+"there is another instance already running, it will be automatically "
+"activated instead of running new one."
+msgstr ""
+
+#: knowitpref.cpp:170
+#, fuzzy
+msgid "Interface"
+msgstr "&Rozhranie"
+
+# knowitpref.cpp:44
+#: knowitpref.cpp:170
+msgid "Interface options"
+msgstr "Nastavenia rozhrania"
+
+#: knowitpref.cpp:173
+msgid "Split window &horizontally"
+msgstr "Rozdeliť okno &horizontálne"
+
+#: knowitpref.cpp:174
+msgid ""
+"If this option is set, notes tree will be displayed on the left and the "
+"editor on the right (this is default).<br>Otherwise notes tree will be "
+"displayed at the top and the editor at the bottom."
+msgstr ""
+"Ak je táto voľba povolená, strom poznámok bude zobrazený v ľavej časti a "
+"editor napravo (takto je to štandardne).<br>Inač bude strom poznámok "
+"zobrazený navrchu a poznámky v dolnej časti."
+
+#: knowitpref.cpp:180
+msgid "Default note name:"
+msgstr "Štandardný názov poznámky:"
+
+#: knowitpref.cpp:182
+msgid ""
+"Default name for new notes. It would be autoselected, so if you often copy "
+"text using mouse selection, you may consider setting default name to none."
+msgstr ""
+"Štandardný názov pre nové poznámky. Bude automaticky vybraný, takže ak často "
+"kopírujete text pomocou výberu myši, možno budete chcieť zmeniť štandardný "
+"názov na žiaden."
+
+#: knowitpref.cpp:188
+msgid "Link format:"
+msgstr ""
+
+#: knowitpref.cpp:190
+msgid "Description (link)"
+msgstr ""
+
+#: knowitpref.cpp:191
+msgid "Link (description)"
+msgstr ""
+
+#: knowitpref.cpp:192
+msgid "Link only"
+msgstr ""
+
+#: knowitpref.cpp:193
+msgid "Description only"
+msgstr ""
+
+#: knowitpref.cpp:197
+#, fuzzy
+msgid "Alternate colors in tree"
+msgstr "Alternatívne farby v zozname"
+
+#: knowitpref.cpp:200
+msgid "Automatically collapse other notes"
+msgstr "Automaticky zložiť iné poznámky"
+
+#: knowitpref.cpp:201
+msgid ""
+"If this option is set, only current subtree will be visible, other notes "
+"will be automatically collapsed."
+msgstr ""
+"Ak je táto voľba povolená, len aktuálny podstrom bude viditeľný, iné "
+"poznámky budú automaticky zatvorené."
+
+#: knowitpref.cpp:207
+#, fuzzy
+msgid "Editor"
+msgstr "&Editor"
+
+# knowitpref.cpp:44
+#: knowitpref.cpp:207
+msgid "Editor options"
+msgstr "Nastavenia editora"
+
+#: knowitpref.cpp:210
+msgid "Use &word wrap"
+msgstr "Použiť &zalamovanie slov"
+
+#: knowitpref.cpp:212
+msgid "'Enter' ends current line, not paragraph"
+msgstr ""
+
+#: knowitpref.cpp:214
+msgid "'Tab' in editor changes focus"
+msgstr ""
+
+#: knowitpref.cpp:221
+msgid "Use &custom colors"
+msgstr ""
+
+#: knowitpref.cpp:230
+msgid "Use custom font:"
+msgstr ""
+
+#: knowitpref.cpp:242
+#, fuzzy
+msgid "Templates"
+msgstr "&Návrhy"
+
+#: knowitpref.cpp:242
+msgid "Templates configuration"
+msgstr "Nastavenie návrhov"
+
+#: knowitpref.cpp:245
+msgid ""
+"<html>\n"
+"<p>These expressions may be used: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>the day as number without a leading zero (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>the day as number with a leading zero (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>the abbreviated localized day name (e.g. 'Mon'..'Sun')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>the long localized day name (e.g. 'Monday'..'Sunday')</"
+"td></tr>\n"
+"<tr><th>M</th><td>the month as number without a leading zero (1-12)</td></"
+"tr>\n"
+"<tr><th>MM</th><td>the month as number with a leading zero (01-12)</td></"
+"tr>\n"
+"<tr><th>MMM</th><td>the abbreviated localized month name (e.g. 'Jan'..'Dec')"
+"</td></tr>\n"
+"<tr><th>MMMM</th><td>the long localized month name (e.g. "
+"'January'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>the year as two digit number (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>the year as four digit number (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>the hour without a leading zero (0..23 or 1..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>hh</th><td>the hour with a leading zero (00..23 or 01..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>m</th><td>the minute without a leading zero (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>the minute with a leading zero (00..59)</td></tr>\n"
+"<tr><th>s</th><td>the second without a leading zero (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>the second with a leading zero (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+msgstr ""
+"<html>\n"
+"<p>Je možné použiť tieto výrazy: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>číslo dňa bez nuly (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>číslo dňa s doplnenou nulou (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>lokalizované meno dňa (e.g. 'Pon'..'Ned')</td></tr>\n"
+"<tr><th>dddd</th><td>lokalizované plné meno dňa (e.g. 'Pondelok'..'Nedeľa')</"
+"td></tr>\n"
+"<tr><th>M</th><td>číslo mesiaca bez nuly (1-12)</td></tr>\n"
+"<tr><th>MM</th><td>číslo mesiaca s doplnenou nulou (01-12)</td></tr>\n"
+"<tr><th>MMM</th><td>lokalizované meno mesiaca (e.g. 'Jan'..'Dec')</td></tr>\n"
+"<tr><th>MMMM</th><td>lokalizované plné meno mesiaca (e.g. "
+"'Január'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>dvojčíselne vyjadrenie roku (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>štvrčíselne vyjadrenie roku (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>hodiny bez nuly (0..23 alebo 1..12 pri AM/PM zobrazení)</"
+"td></tr>\n"
+"<tr><th>hh</th><td>hodiny s doplnenou nulou (00..23 alebo 01..12 pri AM/PM "
+"zobrazení)</td></tr>\n"
+"<tr><th>m</th><td>minúty bez nuly (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>minúty s doplnenou nulou (00..59)</td></tr>\n"
+"<tr><th>s</th><td>sekundy bez nuly (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>sekundy s doplnenou nulou (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>použiť AM/PM zobrazenie</td></tr>\n"
+"<tr><th>AP</th><td>použiť am/pm zobrazenie</td></tr>\n"
+"</table></html>"
+
+#: knowitpref.cpp:270
+msgid "Date Format: "
+msgstr "Formát dátumu: "
+
+#: knowitpref.moc.cpp:34 knowitpref.moc.cpp:42
+msgid "KnowitPreferences"
+msgstr "KnowIt nastavenia"
+
+# knowittray.cpp:24
+#: knowittray.cpp:24
+msgid "&Undock"
+msgstr "&Undock"
+
+# knowit.cpp:54
+#: knowittree.cpp:29
+msgid "Notes"
+msgstr "Poznámky"
+
+#: knowittree.cpp:38
+msgid ""
+"<h2>Notes hierarchy</h2>Here you can browse notes tree. You can also add "
+"notes using right-click menu, or reorganize them using drag and drop."
+msgstr ""
+"<h2>Hierarchia poznámok</h2>Tu si môžete prehliadať strom poznámok. Taktiež "
+"môžete pridávať poznámky pomocou vyvolaného menu kliknutím pravého tlačidla, "
+"alebo reorganizovať ich pomocou ťahania a umiestnenia myšou."
+
+# knowit.moc.cpp:34
+# knowit.moc.cpp:42
+#: knowittree.moc.cpp:34 knowittree.moc.cpp:42
+#, fuzzy
+msgid "KnowitTree"
+msgstr "Knowit"
+
+# main.cpp:25
+#: main.cpp:25
+#, fuzzy
+msgid "KnowIt - notes management utility"
+msgstr "Knowit - pomôcka na správu poznámok"
+
+# main.cpp:31
+#: main.cpp:30
+msgid "Document to open"
+msgstr "Dokument pre otvorenie"
+
+# main.cpp:38
+#: main.cpp:36
+msgid "KnowIt"
+msgstr "KnowIt"
+
+# _translatorinfo.cpp:1
+# main.cpp:42
+#: main.cpp:40 _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Pavol Cvengroš"
+
+# _translatorinfo.cpp:3
+# main.cpp:43
+#: main.cpp:41 _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "orpheus@hq.alert.sk"
+
+# notes.cpp:183
+#: notes.cpp:239
+msgid "KnowIt document"
+msgstr "KnowIt dokument"
+
+# notes.cpp:187
+#: notes.cpp:258
+#, fuzzy
+msgid "Exported from %1 by KnowIt %2, %3."
+msgstr "Exportované z %1 s Knowit %2, %3."
+
+#: rc.cpp:1
+#, fuzzy
+msgid "&Font"
+msgstr "Písm&o"
+
+#: rc.cpp:2
+msgid "&Paragraph"
+msgstr "O&dsek"
+
+#: rc.cpp:3
+msgid "&List"
+msgstr ""
+
+# knowit.cpp:167
+#: rc.cpp:4 rc.cpp:9
+msgid "&Notes"
+msgstr "Poz&námky"
+
+#: rc.cpp:5 rc.cpp:10
+msgid "&Position"
+msgstr "&Pozícia"
+
+# knowit.cpp:174
+#: rc.cpp:6 rc.cpp:11
+msgid "&Tree"
+msgstr "S&trom"
+
+#: rc.cpp:7 rc.cpp:8
+msgid "&Links"
+msgstr ""
+
+#: rc.cpp:12
+#, fuzzy
+msgid "Edit toolbar"
+msgstr "Zobraziť panel nás&trojov"
+
+#: rc.cpp:13
+#, fuzzy
+msgid "Notes toolbar"
+msgstr "Zobraziť panel nás&trojov"
+
+#: rc.cpp:14
+#, fuzzy
+msgid "Links toolbar"
+msgstr "Zobraziť panel nás&trojov"
+
+#: tips.cpp:3
+msgid "<p>...that you can insert a breakline using <tt>Control+Enter</tt>?\n"
+msgstr ""
+"<p>...že môžete vložiť oddeľovací riadok pomocou <tt>Ctrl+Enter</tt>?\n"
+
+#: tips.cpp:7
+msgid ""
+"<p>...that you can create list, starting lines with <tt>*</tt>\n"
+"or <tt>-<tt>?\n"
+msgstr ""
+"<p>...že môžete vytvoriť zoznam pomocou začiatku riadku <tt>*</tt>?\n"
+"alebo <tt>-<tt>?\n"
+
+#: tips.cpp:12
+#, fuzzy
+msgid ""
+"<p>...that if KnowIt is docked on logout, it would be reopen and\n"
+"docked next time you start KDE?\n"
+msgstr ""
+"<p>...ak je Knowit v panely pri odhlásení, bude znovu otvorený a\n"
+"v panely pri ďalšom štarte KDE?\n"
+
+#: tips.cpp:17
+msgid "<p>...that you can disable toolbar using Options->Configure...?\n"
+msgstr ""
+"<p>...že môžete zakázať panel nástrojov v Nastavenia->Konfigurácia...?\n"
+
+#: tips.cpp:21
+msgid ""
+"<p>...that you can configure all shortcuts using\n"
+"Options->Configure shortcuts?\n"
+msgstr ""
+"<p>...že si môžete nastaviť všetky skratky pomocou\n"
+"Možnosti->Nastavenie skratiek?\n"
+
+#: tips.cpp:26
+msgid "<p>...that you can always invoke Tip window using Help menu?\n"
+msgstr "<p>...že môžete vždy vyvolať okno pre Tip dňa pomocou menu Pomoc?\n"
+
+#: tips.cpp:30
+msgid ""
+"<p>...that you can change current note with <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+msgstr ""
+"<p>...že môžete zmeniť aktuálnu poznámku pomocou <tt>Alt+Šípka hore</tt>,\n"
+"<tt>Alt+Šípka dole</tt>, <tt>Alt+Šípka vľavo</tt>, <tt>Alt+Šípka vpravo</"
+"tt>,\n"
+"<tt>Alt+Home</tt> a <tt>Alt+End</tt>, aj keď je editor aktívny?\n"
+
+#: tips.cpp:36
+msgid ""
+"<p>...that you can move current note with <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, even if editor is "
+"active?\n"
+msgstr ""
+"<p>...že môžete presunúť aktuálnu poznámku pomocou <tt>Alt+Shift+Šípka hore</"
+"tt>,\n"
+"<tt>Alt+Shift+Šípka dole</tt>, <tt>Alt+Shift+Šípka vľavo</tt>, <tt>Alt+Shift"
+"+Šípka vpravo</tt>,\n"
+"<tt>Alt+Shift+Home</tt> a <tt>Alt+Shift+End</tt>, aj keď je editor aktívny?\n"
+
+#: tips.cpp:42
+msgid ""
+"<p>...that you can toggle Insert Mode from normal insert to overwrite \n"
+"by either pressing <tt>Insert</tt> button or by clicking on the status \n"
+"in the status bar?\n"
+msgstr ""
+"<p>...že môžete prepínať mód vkladania z normálneho vkladania na "
+"prepisovanie \n"
+"stlačením <tt>Insert</tt> klávesy alebo kliknutím na stav \n"
+"v stavovom panely?\n"
+
+#~ msgid "Configure output"
+#~ msgstr "Nastaviť výstup"
+
+# knowit.cpp:478
+#~ msgid "Choose notes"
+#~ msgstr "Vyberte si poznámky"
+
+# knowit.cpp:600
+# knowit.cpp:625
+#, fuzzy
+#~ msgid ""
+#~ "*.kno|Knowit files (*.kno)\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.kno|KnowIt súbory (*.kno)\n"
+#~ "*|Všetky súbory"
+
+# knowit.cpp:477
+#, fuzzy
+#~ msgid "Add link"
+#~ msgstr "Pridať poznámku"
+
+# knowit.cpp:478
+#~ msgid "New subnote"
+#~ msgstr "Nová podpoznámka"
+
+# knowit.cpp:61
+#~ msgid "Add note from list"
+#~ msgstr "Pridať poznámku zo zoznamu"
+
+# knowit.cpp:64
+#~ msgid "Add subnote in notes list"
+#~ msgstr "Pridať podpoznámku do zoznamu poznámok"
+
+# knowit.cpp:67
+#~ msgid "Delete subnote from notes list"
+#~ msgstr "Odstrániť podpoznámku zo zoznamu poznámok"
+
+# knowit.cpp:120
+#~ msgid "Add &subnote..."
+#~ msgstr "Pridať po&dpoznámku..."
+
+#~ msgid "&Tutorial"
+#~ msgstr "&Návod"
+
+# knowit.cpp:588
+#~ msgid "Cannot move this note."
+#~ msgstr "Nemôžem presunúť túto poznámku."

@@ -1,0 +1,1061 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2004-03-31 14:12+0200\n"
+"PO-Revision-Date: 2003-04-26 23:10+0000\n"
+"Last-Translator: bclz <hanxin@mail.sc.cninfo.net>\n"
+"Language-Team: 简体中文 Chinese(Simple) <zh@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+#: knowitapp.moc.cpp:34 knowitapp.moc.cpp:42
+msgid "KnowitApplication"
+msgstr ""
+
+#: knowitchooser.cpp:35
+msgid "&Exported notes:"
+msgstr ""
+
+#: knowitchooser.cpp:38
+#, fuzzy
+msgid "All"
+msgstr "全部(&A)"
+
+#: knowitchooser.cpp:39
+#, fuzzy
+msgid "Current with children"
+msgstr "当前及子项(&w)"
+
+#: knowitchooser.cpp:40
+#, fuzzy
+msgid "Current only"
+msgstr "仅当前项(&C)"
+
+#: knowitchooser.cpp:42
+msgid "&Encoding:"
+msgstr ""
+
+#: knowitchooser.cpp:45
+msgid "Local (8-bit)"
+msgstr ""
+
+#: knowitchooser.cpp:46
+msgid "UTF-8"
+msgstr ""
+
+# knowit.cpp:545 knowit.cpp:568
+#: knowitchooser.cpp:49
+#, fuzzy
+msgid "Numbered titles"
+msgstr "便签标题"
+
+#: knowitchooser.cpp:51 notes.cpp:249
+msgid "Table of contents"
+msgstr ""
+
+#: knowitchooser.cpp:53
+msgid "Rule betweeen notes"
+msgstr ""
+
+#: knowitchooser.cpp:55
+msgid "Use editor font and colors"
+msgstr ""
+
+#: knowitchooser.moc.cpp:34 knowitchooser.moc.cpp:42
+msgid "KnowitChooser"
+msgstr ""
+
+# knowit.cpp:36
+#: knowit.cpp:53
+msgid "untitled"
+msgstr "未命名"
+
+# knowit.cpp:41
+#: knowit.cpp:59
+msgid "Ready"
+msgstr "准备好"
+
+# knowit.cpp:78
+#: knowit.cpp:74
+msgid "Move it to change tree/edit layout."
+msgstr "移动这个会改编树的层次。"
+
+# knowit.cpp:89
+#: knowit.cpp:85
+msgid ""
+"<h2>Note text</h2>Add text for selected note here.\n"
+"Text can be formatted, for example <b>bold</b> or <i>italic</i>."
+msgstr ""
+"<h2>便签内容</h2>在这里为选中的便签加入内容。\n"
+"文本内容可以被格式化，例如<b>黑体</b> 或　<i>斜体</i>。 "
+
+# knowit.cpp:101
+#: knowit.cpp:111
+msgid "&Export to HTML..."
+msgstr "导出到 HTML (&E)"
+
+# knowit.cpp:104
+#: knowit.cpp:114
+msgid "Document &information..."
+msgstr "文件信息(&i)"
+
+# knowit.cpp:108
+#: knowit.cpp:124
+msgid "Toggle &bold"
+msgstr "黑体(&b)"
+
+# knowit.cpp:110
+#: knowit.cpp:126
+msgid "Toggle &italic"
+msgstr "斜体(&i)"
+
+# knowit.cpp:113
+#: knowit.cpp:129
+msgid "Toggle &underline"
+msgstr "下画线(&u)"
+
+# knowit.cpp:116
+#: knowit.cpp:132
+msgid "&Text color..."
+msgstr "文字颜色(&T)"
+
+#: knowit.cpp:134
+msgid "&Superscript"
+msgstr "上标(&S)"
+
+#: knowit.cpp:136
+msgid "&Subscript"
+msgstr "下标(&S)"
+
+# knowit.cpp:166
+#: knowit.cpp:138
+#, fuzzy
+msgid "&Normal text"
+msgstr "教程(&T)"
+
+#: knowit.cpp:140
+msgid "&Bullet list"
+msgstr ""
+
+# knowit.cpp:545 knowit.cpp:568
+#: knowit.cpp:142
+#, fuzzy
+msgid "&Numbered list"
+msgstr "便签标题"
+
+#: knowit.cpp:144
+msgid "&Uppercase list"
+msgstr ""
+
+#: knowit.cpp:146
+msgid "&Lowercase list"
+msgstr ""
+
+#: knowit.cpp:148
+msgid "N&o list"
+msgstr ""
+
+# knowit.cpp:120
+#: knowit.cpp:152
+msgid "&Go to &note..."
+msgstr "转到(&G)便签..."
+
+# knowit.cpp:122
+#: knowit.cpp:154
+msgid "Align &left"
+msgstr "左对齐(&l)"
+
+# knowit.cpp:124
+#: knowit.cpp:156
+msgid "Align &right"
+msgstr "右对齐(&r)"
+
+# knowit.cpp:126
+#: knowit.cpp:158
+msgid "&Justify"
+msgstr "对齐调整(&J)"
+
+# knowit.cpp:128
+#: knowit.cpp:160
+msgid "&Center"
+msgstr "居中(&C)"
+
+# knowit.cpp:130
+#: knowit.cpp:162
+msgid "Insert &date"
+msgstr "插入日期(&d)"
+
+# knowit.cpp:132
+#: knowit.cpp:164
+msgid "Insert &file..."
+msgstr "插入文件(&f)"
+
+#: knowit.cpp:166
+msgid "&Raw Text Mode"
+msgstr "纯文本模式(&R)"
+
+#: knowit.cpp:179
+msgid "&Add"
+msgstr "增加(&A)"
+
+# knowit.cpp:567
+#: knowit.cpp:181
+msgid "Add &subnote"
+msgstr "增加子项(&s)"
+
+# knowit.cpp:145
+#: knowit.cpp:185
+msgid "&Rename"
+msgstr "重命名(&R)"
+
+# knowit.cpp:147
+#: knowit.cpp:187
+msgid "E&xpand all"
+msgstr "解压全部(&x)"
+
+# knowit.cpp:149
+#: knowit.cpp:189
+msgid "&Expand current"
+msgstr "解压当前的(&E)"
+
+# knowit.cpp:151
+#: knowit.cpp:191
+msgid "Co&llapse all"
+msgstr "压缩全部(&l)"
+
+# knowit.cpp:153
+#: knowit.cpp:193
+msgid "&Collapse current"
+msgstr "压缩当前的(&C)"
+
+#: knowit.cpp:195
+msgid "Move up"
+msgstr "上移"
+
+#: knowit.cpp:197
+msgid "Move down"
+msgstr "下移"
+
+#: knowit.cpp:199
+msgid "Move level up"
+msgstr "移到上一层"
+
+#: knowit.cpp:201
+msgid "Move level down"
+msgstr "移到下一层"
+
+#: knowit.cpp:203
+msgid "Move at the beginning"
+msgstr "移动到顶端"
+
+#: knowit.cpp:205
+msgid "Move at the end"
+msgstr "移动到底部"
+
+#: knowit.cpp:207
+msgid "Sort"
+msgstr "排序"
+
+# knowit.cpp:137
+#: knowit.cpp:211
+#, fuzzy
+msgid "&Add link..."
+msgstr "增加便签(&A)"
+
+#: knowit.cpp:213
+msgid "&Remove link"
+msgstr ""
+
+#: knowit.cpp:215
+msgid "Open link"
+msgstr ""
+
+# knowit.cpp:677
+#: knowit.cpp:217
+#, fuzzy
+msgid "Open link with..."
+msgstr "打开文件..."
+
+#: knowit.cpp:219
+msgid "&Modify link..."
+msgstr ""
+
+#: knowit.cpp:221
+msgid "&Copy link location"
+msgstr ""
+
+# knowit.cpp:161
+#: knowit.cpp:230
+msgid "&Tip of the day"
+msgstr "你知道么?(&T)"
+
+#: knowit.cpp:234
+msgid "Minimize"
+msgstr ""
+
+# knowit.cpp:134
+#: knowit.cpp:236
+msgid "Switch area"
+msgstr "查找范围"
+
+#: knowit.cpp:238
+msgid "Overwrite Mode"
+msgstr "复写模式"
+
+#: knowit.cpp:240
+msgid "Go to previous note"
+msgstr "转到上一个便签"
+
+# knowit.cpp:120
+#: knowit.cpp:242
+msgid "Go to next note"
+msgstr "转到下一个便签"
+
+# knowit.cpp:143
+#: knowit.cpp:244
+msgid "Go to first note"
+msgstr "转到第一个便签"
+
+# knowit.cpp:120
+#: knowit.cpp:246
+msgid "Go to last note"
+msgstr "转到最后一个便签"
+
+# knowit.cpp:143
+#: knowit.cpp:248
+msgid "Go to first subnote"
+msgstr "转到第一个自项"
+
+# knowit.cpp:545
+#: knowit.cpp:250
+msgid "Go to parent note"
+msgstr "转到父便签"
+
+#: knowit.cpp:262 knowit.cpp:1228
+msgid "INS"
+msgstr "插入"
+
+#: knowit.cpp:306
+msgid ""
+"<qt><p>Cannot open resource file <b>knowitui.rc</b>. Some of the menus and "
+"toolbars will be missing.</p><p>Probably Knowit was not installed properly. "
+"If you installed from source, please invoke <i>make install</i>.If you use "
+"precompiled package, please contact packager.</p></qt>"
+msgstr ""
+
+# knowit.cpp:282 knowit.cpp:890
+#: knowit.cpp:323 knowit.cpp:1131
+msgid "<qt>Cannot open file<br><b>%1</b></qt>"
+msgstr "<qt>不能打开文件<br><b>%1</b></qt>"
+
+# knowit.cpp:353
+#: knowit.cpp:374
+msgid "File %1 opened."
+msgstr "文件 %1 已经打开。"
+
+# knowit.cpp:362
+#: knowit.cpp:389
+msgid "<qt>Cannot save file<br><b>%1</b></qt>"
+msgstr "<qt>不能保存文件<br><b>%1</b></qt>"
+
+# knowit.cpp:386
+#: knowit.cpp:405
+msgid "File %1 saved."
+msgstr "文件 %1 已经保存。"
+
+# knowit.cpp:408
+#: knowit.cpp:441
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"cannot be saved. Quit anyway?</qt>"
+msgstr ""
+"<qt>文件 <b>%1</b>\n"
+"已经被修改。保存修改么?</qt> "
+
+# knowit.cpp:408
+#: knowit.cpp:446
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"was modified. Do you want to save it?</qt>"
+msgstr ""
+"<qt>文件 <b>%1</b>\n"
+"已经被修改。保存修改么?</qt> "
+
+# knowit.cpp:36
+#: knowit.cpp:463
+#, fuzzy
+msgid "untitled.kno"
+msgstr "未命名"
+
+# knowit.cpp:446
+#: knowit.cpp:489
+msgid "<qt>Sought text:<br><b>%1</b><br>not found.</qt>"
+msgstr "<qt>查找文本: <br><b>%1</b><br>未找到。</qt>"
+
+# knowit.cpp:544
+#: knowit.cpp:621
+msgid "Add note"
+msgstr "增加便签"
+
+# knowit.cpp:545 knowit.cpp:568
+#: knowit.cpp:622 knowit.cpp:646
+msgid "Note title:"
+msgstr "便签标题"
+
+# knowit.cpp:563
+#: knowit.cpp:641
+msgid "You have to choose note before adding subnote."
+msgstr "加入子项前必须选择一个便签。"
+
+# knowit.cpp:567
+#: knowit.cpp:645
+msgid "Add subnote"
+msgstr "增加子项"
+
+# knowit.cpp:588
+#: knowit.cpp:666
+msgid ""
+"<qt>Are you sure you want to delete note<br><b>%1</b><br> and its subnotes?</"
+"qt>"
+msgstr "<qt>确定要删除便签<br><b>%1</b><br>和它的子项么?</qt>"
+
+# knowit.cpp:590
+#: knowit.cpp:668
+msgid "<qt>Are you sure you want to delete note<br><b>%1</b>?</qt>"
+msgstr "<qt>确定要删除便签<br><b>%1</b>么?</qt>"
+
+# knowit.cpp:677 knowit.cpp:702
+#: knowit.cpp:838 knowit.cpp:875
+#, fuzzy
+msgid ""
+"*.kno|KnowIt files (*.kno)\n"
+"*|All files"
+msgstr ""
+"*.kno|KnowIt 文件 (*.kno)\n"
+"*|所有文件"
+
+# knowit.cpp:677
+#: knowit.cpp:838
+msgid "Open File..."
+msgstr "打开文件..."
+
+#: knowit.cpp:857
+msgid ""
+"<qt><p>File couldn not be saved automatically.<p>Autosaving disabled - save "
+"file manually to turn autosaving on.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:875
+msgid "Save as..."
+msgstr "另存为..."
+
+# knowit.cpp:708 knowit.cpp:794
+#: knowit.cpp:881 knowit.cpp:973
+msgid "<qt>File<br><b>%1</b><br>already exists. Overwrite it?</qt>"
+msgstr "<qt>文件<br><b>%1</b><br>已经存在. 覆盖么?</qt>"
+
+# knowit.cpp:724
+#: knowit.cpp:897
+msgid "<qt><h1>%1</h1>Document path: %2<br>Number of notes: %3</qt>"
+msgstr "<qt><h1>%1</h1>文档路径: %2<br>便签数目: %3</qt>"
+
+# knowit.cpp:788
+#: knowit.cpp:967
+msgid ""
+"*.html|HTML files (*.html)\n"
+"*|All files"
+msgstr ""
+"*.html|HTML 文件 (*.html)\n"
+"*|所有文件"
+
+# knowit.cpp:788
+#: knowit.cpp:967
+msgid "Export to HTML"
+msgstr "导出到 HTML"
+
+# knowit.cpp:863
+#: knowit.cpp:1092
+msgid "Go to"
+msgstr "转到"
+
+# knowit.cpp:864
+#: knowit.cpp:1093
+msgid "Go to page with given title"
+msgstr "转到制定标题的页"
+
+# knowit.cpp:885
+#: knowit.cpp:1126 knowitlink.cpp:90
+msgid "*|All files"
+msgstr "*|所有文件"
+
+# knowit.cpp:885
+#: knowit.cpp:1126
+msgid "Insert file..."
+msgstr "插入文件..."
+
+#: knowit.cpp:1227
+msgid "OVR"
+msgstr "复写"
+
+#: knowit.cpp:1263
+msgid ""
+"You have just added your first link. Please remember that only links are "
+"stored in Knowit document, not linked files. If you move your document to "
+"other computer, links to local files probably won't work."
+msgstr ""
+
+# knowit.cpp:590
+#: knowit.cpp:1273
+#, fuzzy
+msgid "<qt>Are you sure you want to remove link:<br><b>%1</b>?</qt>"
+msgstr "<qt>确定要删除便签<br><b>%1</b>么?</qt>"
+
+#: knowitedit.moc.cpp:34 knowitedit.moc.cpp:42
+msgid "KnowitEdit"
+msgstr ""
+
+#: knowitlink.cpp:34
+msgid "Modify link"
+msgstr ""
+
+#: knowitlink.cpp:40
+msgid "Referenced item:"
+msgstr ""
+
+#: knowitlink.cpp:42
+msgid "File or URL"
+msgstr ""
+
+# knowit.cpp:545
+#: knowitlink.cpp:43
+#, fuzzy
+msgid "KnowIt note"
+msgstr "新便签"
+
+#: knowitlink.cpp:55
+msgid "Link description:"
+msgstr ""
+
+# knowit.cpp:545
+#: knowitlink.cpp:90
+#, fuzzy
+msgid "Choose link..."
+msgstr "新便签"
+
+#: knowitlink.moc.cpp:34 knowitlink.moc.cpp:42
+msgid "KnowitLinkDialog"
+msgstr ""
+
+#: knowitlinks.moc.cpp:34 knowitlinks.moc.cpp:42
+msgid "KnowitLinks"
+msgstr ""
+
+# knowit.moc.cpp:34 knowit.moc.cpp:42
+#: knowit.moc.cpp:34 knowit.moc.cpp:42
+msgid "Knowit"
+msgstr ""
+
+# knowit.cpp:545
+#: knowitpref.cpp:96
+msgid "New note"
+msgstr "新便签"
+
+# knowitpref.cpp:44
+#: knowitpref.cpp:132
+msgid "KnowIt Preferences"
+msgstr "KnowIt 属性设置"
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:138
+#, fuzzy
+msgid "General"
+msgstr "常规(&G)"
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:138
+msgid "General options"
+msgstr "常规选项"
+
+# knowitpref.cpp:47
+#: knowitpref.cpp:141
+msgid "&Dock in System tray"
+msgstr "最小化到系统托盘(&D)"
+
+# knowitpref.cpp:48
+#: knowitpref.cpp:142
+msgid "Open &last file on startup"
+msgstr "启动时打开上次打开的文件(&l)"
+
+#: knowitpref.cpp:146
+msgid "Autosave:"
+msgstr "自动存盘："
+
+#: knowitpref.cpp:148
+msgid "every "
+msgstr "每"
+
+#: knowitpref.cpp:149
+msgid " min."
+msgstr "分种"
+
+#: knowitpref.cpp:150
+msgid "Never"
+msgstr "从不"
+
+#: knowitpref.cpp:151
+msgid ""
+"Current file will be automatically saved after the specified interval. Set "
+"to <i>never</i> to disable autosave."
+msgstr ""
+"当前纪录会以特定时间间隔自动存盘。设置<i>从不</i>可以禁用自动存盘功能。"
+
+#: knowitpref.cpp:154
+#, fuzzy
+msgid "Automatically save file on e&xit"
+msgstr "自动折叠其他便签"
+
+#: knowitpref.cpp:156
+#, fuzzy
+msgid "Current file will be automatically saved on exit without confirmation."
+msgstr ""
+"当前纪录会以特定时间间隔自动存盘。设置<i>从不</i>可以禁用自动存盘功能。"
+
+#: knowitpref.cpp:158
+msgid "Create &backups"
+msgstr ""
+
+#: knowitpref.cpp:160
+msgid "Create backup of current document before it is saved."
+msgstr ""
+
+#: knowitpref.cpp:161
+msgid "Allow &multiple instances of KnowIt"
+msgstr ""
+
+#: knowitpref.cpp:163
+msgid ""
+"If this option is disabled, only one instance of KnowIt will be allowed. If "
+"there is another instance already running, it will be automatically "
+"activated instead of running new one."
+msgstr ""
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:170
+#, fuzzy
+msgid "Interface"
+msgstr "界面(&I)"
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:170
+msgid "Interface options"
+msgstr "界面配置选项"
+
+#: knowitpref.cpp:173
+msgid "Split window &horizontally"
+msgstr "纵向切割窗口(&h)"
+
+#: knowitpref.cpp:174
+msgid ""
+"If this option is set, notes tree will be displayed on the left and the "
+"editor on the right (this is default).<br>Otherwise notes tree will be "
+"displayed at the top and the editor at the bottom."
+msgstr ""
+"如果选中这个功能，数状列表将显示在左边，编辑窗口在右边(缺省)。<br>否则数状列"
+"表将在窗口上部，而编辑窗口在底部。"
+
+#: knowitpref.cpp:180
+msgid "Default note name:"
+msgstr "缺省便签名子："
+
+#: knowitpref.cpp:182
+msgid ""
+"Default name for new notes. It would be autoselected, so if you often copy "
+"text using mouse selection, you may consider setting default name to none."
+msgstr ""
+"新便签的缺省名子。系统将自动选择名子， 所以如果你经常使用鼠标选择文字，你应该"
+"设定缺省名子为 空 。"
+
+#: knowitpref.cpp:188
+msgid "Link format:"
+msgstr ""
+
+#: knowitpref.cpp:190
+msgid "Description (link)"
+msgstr ""
+
+#: knowitpref.cpp:191
+msgid "Link (description)"
+msgstr ""
+
+#: knowitpref.cpp:192
+msgid "Link only"
+msgstr ""
+
+#: knowitpref.cpp:193
+msgid "Description only"
+msgstr ""
+
+#: knowitpref.cpp:197
+#, fuzzy
+msgid "Alternate colors in tree"
+msgstr "列表中的替换颜色"
+
+#: knowitpref.cpp:200
+msgid "Automatically collapse other notes"
+msgstr "自动折叠其他便签"
+
+#: knowitpref.cpp:201
+msgid ""
+"If this option is set, only current subtree will be visible, other notes "
+"will be automatically collapsed."
+msgstr "如果此项被选中，那么只有当前子数可以显示，其他便签会自动折叠。"
+
+#: knowitpref.cpp:207
+#, fuzzy
+msgid "Editor"
+msgstr "编辑(&E)"
+
+# knowitpref.cpp:46
+#: knowitpref.cpp:207
+msgid "Editor options"
+msgstr "编辑选项"
+
+#: knowitpref.cpp:210
+msgid "Use &word wrap"
+msgstr "自动换行(&w)"
+
+#: knowitpref.cpp:212
+msgid "'Enter' ends current line, not paragraph"
+msgstr ""
+
+#: knowitpref.cpp:214
+msgid "'Tab' in editor changes focus"
+msgstr ""
+
+#: knowitpref.cpp:221
+msgid "Use &custom colors"
+msgstr ""
+
+#: knowitpref.cpp:230
+msgid "Use custom font:"
+msgstr ""
+
+#: knowitpref.cpp:242
+#, fuzzy
+msgid "Templates"
+msgstr "模板(&T)"
+
+#: knowitpref.cpp:242
+msgid "Templates configuration"
+msgstr "模板配置"
+
+#: knowitpref.cpp:245
+msgid ""
+"<html>\n"
+"<p>These expressions may be used: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>the day as number without a leading zero (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>the day as number with a leading zero (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>the abbreviated localized day name (e.g. 'Mon'..'Sun')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>the long localized day name (e.g. 'Monday'..'Sunday')</"
+"td></tr>\n"
+"<tr><th>M</th><td>the month as number without a leading zero (1-12)</td></"
+"tr>\n"
+"<tr><th>MM</th><td>the month as number with a leading zero (01-12)</td></"
+"tr>\n"
+"<tr><th>MMM</th><td>the abbreviated localized month name (e.g. 'Jan'..'Dec')"
+"</td></tr>\n"
+"<tr><th>MMMM</th><td>the long localized month name (e.g. "
+"'January'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>the year as two digit number (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>the year as four digit number (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>the hour without a leading zero (0..23 or 1..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>hh</th><td>the hour with a leading zero (00..23 or 01..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>m</th><td>the minute without a leading zero (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>the minute with a leading zero (00..59)</td></tr>\n"
+"<tr><th>s</th><td>the second without a leading zero (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>the second with a leading zero (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+msgstr ""
+"<html>\n"
+"<p>可以使用以下表达方法： </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>不以零开头的日期 (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>以零开头的日期 (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>文字简写表示的日期 (例如 '一'..'日')</td></tr>\n"
+"<tr><th>dddd</th><td>文字表示的日期全称 (例如 '星期一'..'星期日')</td></tr>\n"
+"<tr><th>M</th><td>不以零开头的月份 (1-12)</td></tr>\n"
+"<tr><th>MM</th><td>以零开头的月份 (01-12)</td></tr>\n"
+"<tr><th>MMM</th><td>月份的文字缩写 (例如 '一'..'十二')</td></tr>\n"
+"<tr><th>MMMM</th><td>月份全名 (例如 '一月'..'十二月')</td></tr>\n"
+"<tr><th>yy</th><td>两位数字的年份 (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>四位数字的年份 (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>不以零开始的小时数 (0..23 or 1..12 if AM/PM display)</td></"
+"tr>\n"
+"<tr><th>hh</th><td>以零开始的小时数 (00..23 or 01..12 if AM/PM display)</"
+"td></tr>\n"
+"<tr><th>m</th><td>不以零开始的分钟 (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>以零开始的分钟 (00..59)</td></tr>\n"
+"<tr><th>s</th><td>不以零开始的秒 (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>以零开始的秒 (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+
+#: knowitpref.cpp:270
+msgid "Date Format: "
+msgstr "日期格式："
+
+# knowitpref.cpp:44
+#: knowitpref.moc.cpp:34 knowitpref.moc.cpp:42
+#, fuzzy
+msgid "KnowitPreferences"
+msgstr "KnowIt 属性设置"
+
+# knowittray.cpp:24
+#: knowittray.cpp:24
+msgid "&Undock"
+msgstr "恢复窗口(&U)"
+
+# knowit.cpp:55
+#: knowittree.cpp:29
+msgid "Notes"
+msgstr "便签"
+
+# knowit.cpp:74
+#: knowittree.cpp:38
+#, fuzzy
+msgid ""
+"<h2>Notes hierarchy</h2>Here you can browse notes tree. You can also add "
+"notes using right-click menu, or reorganize them using drag and drop."
+msgstr ""
+"<h2>便签层次</h2>你可以在这里察看便签的树型层次。可以通过右键菜单加入便签，或"
+"者用托放重新组织结构。"
+
+# knowitpref.cpp:44
+#: knowittree.moc.cpp:34 knowittree.moc.cpp:42
+#, fuzzy
+msgid "KnowitTree"
+msgstr "KnowIt 属性设置"
+
+# main.cpp:25
+#: main.cpp:25
+#, fuzzy
+msgid "KnowIt - notes management utility"
+msgstr "Knowit - 便签管理工具"
+
+# main.cpp:31
+#: main.cpp:30
+msgid "Document to open"
+msgstr "打开的文档"
+
+# main.cpp:38
+#: main.cpp:36
+msgid "KnowIt"
+msgstr ""
+
+# _translatorinfo.cpp:1 main.cpp:42
+#: main.cpp:40 _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "韩新"
+
+# _translatorinfo.cpp:3 main.cpp:43
+#: main.cpp:41 _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "hanxin@mail.sc.cninfo.net"
+
+# notes.cpp:184
+#: notes.cpp:239
+msgid "KnowIt document"
+msgstr "KnowIt 文档"
+
+# notes.cpp:188
+#: notes.cpp:258
+#, fuzzy
+msgid "Exported from %1 by KnowIt %2, %3."
+msgstr "由 Knowit %2, %3 从 %1 输出"
+
+#: rc.cpp:1
+#, fuzzy
+msgid "&Font"
+msgstr "字体(&o)"
+
+# knowit.cpp:198
+#: rc.cpp:2
+msgid "&Paragraph"
+msgstr "段落(&P)"
+
+#: rc.cpp:3
+msgid "&List"
+msgstr ""
+
+# knowit.cpp:220
+#: rc.cpp:4 rc.cpp:9
+msgid "&Notes"
+msgstr "便签(&N)"
+
+#: rc.cpp:5 rc.cpp:10
+msgid "&Position"
+msgstr "位置(&P)"
+
+# knowit.cpp:227
+#: rc.cpp:6 rc.cpp:11
+msgid "&Tree"
+msgstr "树(&T)"
+
+#: rc.cpp:7 rc.cpp:8
+msgid "&Links"
+msgstr ""
+
+# knowitpref.cpp:49
+#: rc.cpp:12
+#, fuzzy
+msgid "Edit toolbar"
+msgstr "显示工具条(&t)"
+
+# knowitpref.cpp:49
+#: rc.cpp:13
+#, fuzzy
+msgid "Notes toolbar"
+msgstr "显示工具条(&t)"
+
+# knowitpref.cpp:49
+#: rc.cpp:14
+#, fuzzy
+msgid "Links toolbar"
+msgstr "显示工具条(&t)"
+
+# tips.cpp:3
+#: tips.cpp:3
+msgid "<p>...that you can insert a breakline using <tt>Control+Enter</tt>?\n"
+msgstr "<p>...你可以使用<tt>Control + Enter</tt>插入一个行分格符\n"
+
+# tips.cpp:7
+#: tips.cpp:7
+msgid ""
+"<p>...that you can create list, starting lines with <tt>*</tt>\n"
+"or <tt>-<tt>?\n"
+msgstr "<p>...你可在行首使用<tt>*</tt>或者<tt>-</tt>新建一个列表。\n"
+
+# tips.cpp:12
+#: tips.cpp:12
+#, fuzzy
+msgid ""
+"<p>...that if KnowIt is docked on logout, it would be reopen and\n"
+"docked next time you start KDE?\n"
+msgstr ""
+"<p>...如果在您退出系统时Knowit 未退出，则下次进入KDE时Knowit会自动启动。\n"
+
+# tips.cpp:17
+#: tips.cpp:17
+msgid "<p>...that you can disable toolbar using Options->Configure...?\n"
+msgstr "<p>...你可以通过 选项->配置Knowit 菜单禁用工具条。\n"
+
+# tips.cpp:21
+#: tips.cpp:21
+msgid ""
+"<p>...that you can configure all shortcuts using\n"
+"Options->Configure shortcuts?\n"
+msgstr "<p>...你可以使用 选项->配置快捷键 菜单配置所有的快捷键。\n"
+
+# tips.cpp:26
+#: tips.cpp:26
+msgid "<p>...that you can always invoke Tip window using Help menu?\n"
+msgstr "<p>...你可以通过Help菜单察看Tips。\n"
+
+#: tips.cpp:30
+msgid ""
+"<p>...that you can change current note with <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+msgstr ""
+"<p>..., 即使在编辑状态中，你也可以使用 <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> 和 <tt>Alt+End</tt>切换当前便签。\n"
+
+#: tips.cpp:36
+msgid ""
+"<p>...that you can move current note with <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, even if editor is "
+"active?\n"
+msgstr ""
+"<p>...即使在编辑状态中，你也可以使用 <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> 和 <tt>Alt+Shift+End</tt>移动当前便签。\n"
+
+#: tips.cpp:42
+msgid ""
+"<p>...that you can toggle Insert Mode from normal insert to overwrite \n"
+"by either pressing <tt>Insert</tt> button or by clicking on the status \n"
+"in the status bar?\n"
+msgstr ""
+"<p>...你可以通过按下<tt>Insert</tt>键或者选择状态条上的状态来切换插入与复写状"
+"态。\n"
+
+#~ msgid "Configure output"
+#~ msgstr "输出配置"
+
+# knowit.cpp:545
+#, fuzzy
+#~ msgid "Choose notes"
+#~ msgstr "新便签"
+
+# knowit.cpp:677 knowit.cpp:702
+#, fuzzy
+#~ msgid ""
+#~ "*.kno|Knowit files (*.kno)\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.kno|KnowIt 文件 (*.kno)\n"
+#~ "*|所有文件"
+
+# knowit.cpp:544
+#, fuzzy
+#~ msgid "Add link"
+#~ msgstr "增加便签"
+
+# knowit.cpp:568
+#~ msgid "New subnote"
+#~ msgstr "新子项"
+
+# knowit.cpp:139
+#~ msgid "Add &subnote..."
+#~ msgstr "增加子项(&s)"
+
+# knowit.cpp:166
+#~ msgid "&Tutorial"
+#~ msgstr "教程(&T)"
+
+# knowit.cpp:665
+#~ msgid "Cannot move this note."
+#~ msgstr "不能移动这个便签。"
+
+# knowit.cpp:62
+#~ msgid "Add note from list"
+#~ msgstr "从列表中插入便签"
+
+# knowit.cpp:65
+#~ msgid "Add subnote in notes list"
+#~ msgstr "在便签列表中插入子项"
+
+# knowit.cpp:68
+#~ msgid "Delete subnote from notes list"
+#~ msgstr "从便签列表中删除子项"

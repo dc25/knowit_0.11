@@ -1,0 +1,975 @@
+# translation of ru.po to russian
+# translation of knowit.po to Russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+#
+# $Id: ru.po,v 1.1 2005/09/30 22:56:24 mrudolf Exp $
+# Alexey Kolosov <alexey.kolosov@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"POT-Creation-Date: 2004-03-31 14:12+0200\n"
+"PO-Revision-Date: 2003-06-02 14:33+0600\n"
+"Last-Translator: Alexey Kolosov <alexey.kolosov@mail.ru>\n"
+"Language-Team: russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: knowitapp.moc.cpp:34 knowitapp.moc.cpp:42
+msgid "KnowitApplication"
+msgstr "KnowitApplication"
+
+#: knowitchooser.cpp:35
+msgid "&Exported notes:"
+msgstr ""
+
+#: knowitchooser.cpp:38
+#, fuzzy
+msgid "All"
+msgstr "&Все"
+
+#: knowitchooser.cpp:39
+#, fuzzy
+msgid "Current with children"
+msgstr "Текущее с принадлежащими"
+
+#: knowitchooser.cpp:40
+#, fuzzy
+msgid "Current only"
+msgstr "Только текущее"
+
+#: knowitchooser.cpp:42
+msgid "&Encoding:"
+msgstr ""
+
+#: knowitchooser.cpp:45
+msgid "Local (8-bit)"
+msgstr ""
+
+#: knowitchooser.cpp:46
+msgid "UTF-8"
+msgstr ""
+
+#: knowitchooser.cpp:49
+#, fuzzy
+msgid "Numbered titles"
+msgstr "Название примечания:"
+
+#: knowitchooser.cpp:51 notes.cpp:249
+msgid "Table of contents"
+msgstr ""
+
+#: knowitchooser.cpp:53
+msgid "Rule betweeen notes"
+msgstr ""
+
+#: knowitchooser.cpp:55
+msgid "Use editor font and colors"
+msgstr ""
+
+#: knowitchooser.moc.cpp:34 knowitchooser.moc.cpp:42
+msgid "KnowitChooser"
+msgstr "KnowitChooser"
+
+#: knowit.cpp:53
+msgid "untitled"
+msgstr "безымянный"
+
+#: knowit.cpp:59
+msgid "Ready"
+msgstr "Готов"
+
+#: knowit.cpp:74
+msgid "Move it to change tree/edit layout."
+msgstr "Переместите это чтобы изменить формат дерева/редактора."
+
+#: knowit.cpp:85
+msgid ""
+"<h2>Note text</h2>Add text for selected note here.\n"
+"Text can be formatted, for example <b>bold</b> or <i>italic</i>."
+msgstr ""
+"<h2>Текст примечания</h2>Добавьте текст для выбранного примечания здесь.\n"
+"Текст может быть форматирован, например <b>жирный</b> или <i>наклонный</i>."
+
+#: knowit.cpp:111
+msgid "&Export to HTML..."
+msgstr "&Экспортировать в HTML"
+
+#: knowit.cpp:114
+msgid "Document &information..."
+msgstr "&Информация о документе"
+
+#: knowit.cpp:124
+msgid "Toggle &bold"
+msgstr "Переключить &жирный"
+
+#: knowit.cpp:126
+msgid "Toggle &italic"
+msgstr "Переключить &наклонный"
+
+#: knowit.cpp:129
+msgid "Toggle &underline"
+msgstr "Переключить &подчёркнутый"
+
+#: knowit.cpp:132
+msgid "&Text color..."
+msgstr "&Цвет текста..."
+
+#: knowit.cpp:134
+msgid "&Superscript"
+msgstr "Надстрочный индекс"
+
+#: knowit.cpp:136
+msgid "&Subscript"
+msgstr "Подстрочный индекс"
+
+#: knowit.cpp:138
+msgid "&Normal text"
+msgstr "&Нормальный"
+
+#: knowit.cpp:140
+msgid "&Bullet list"
+msgstr ""
+
+#: knowit.cpp:142
+#, fuzzy
+msgid "&Numbered list"
+msgstr "Название примечания:"
+
+#: knowit.cpp:144
+msgid "&Uppercase list"
+msgstr ""
+
+#: knowit.cpp:146
+msgid "&Lowercase list"
+msgstr ""
+
+#: knowit.cpp:148
+msgid "N&o list"
+msgstr ""
+
+#: knowit.cpp:152
+msgid "&Go to &note..."
+msgstr "&Перейти к примечанию..."
+
+#: knowit.cpp:154
+msgid "Align &left"
+msgstr "Выровнять в&лево"
+
+#: knowit.cpp:156
+msgid "Align &right"
+msgstr "Выровнять в&право"
+
+#: knowit.cpp:158
+msgid "&Justify"
+msgstr "Выровнять по &ширине"
+
+#: knowit.cpp:160
+msgid "&Center"
+msgstr "Выровнять по &центру"
+
+#: knowit.cpp:162
+msgid "Insert &date"
+msgstr "Вставить &дату"
+
+#: knowit.cpp:164
+msgid "Insert &file..."
+msgstr "Вставить &файл..."
+
+#: knowit.cpp:166
+msgid "&Raw Text Mode"
+msgstr "\"&Сырой\" режим текста"
+
+#: knowit.cpp:179
+msgid "&Add"
+msgstr "&Добавить"
+
+#: knowit.cpp:181
+msgid "Add &subnote"
+msgstr "Добавить под-п&римечание"
+
+#: knowit.cpp:185
+msgid "&Rename"
+msgstr "Пере&именовать"
+
+#: knowit.cpp:187
+msgid "E&xpand all"
+msgstr "&Развернуть все ветки"
+
+#: knowit.cpp:189
+msgid "&Expand current"
+msgstr "Развернуть &текущую ветку"
+
+#: knowit.cpp:191
+msgid "Co&llapse all"
+msgstr "&Свернуть все ветки"
+
+#: knowit.cpp:193
+msgid "&Collapse current"
+msgstr "Свернуть т&екущую ветку"
+
+#: knowit.cpp:195
+msgid "Move up"
+msgstr "Поднять"
+
+#: knowit.cpp:197
+msgid "Move down"
+msgstr "Опустить"
+
+#: knowit.cpp:199
+msgid "Move level up"
+msgstr "Поднять на уровень"
+
+#: knowit.cpp:201
+msgid "Move level down"
+msgstr "Опустить на уровень"
+
+#: knowit.cpp:203
+msgid "Move at the beginning"
+msgstr "Переместить в начало"
+
+#: knowit.cpp:205
+msgid "Move at the end"
+msgstr "Переместить в конец"
+
+#: knowit.cpp:207
+msgid "Sort"
+msgstr "Сортировать"
+
+#: knowit.cpp:211
+msgid "&Add link..."
+msgstr "&Добавить ссылку..."
+
+#: knowit.cpp:213
+msgid "&Remove link"
+msgstr "&Удалить ссылку"
+
+#: knowit.cpp:215
+msgid "Open link"
+msgstr "Открыть ссылку"
+
+#: knowit.cpp:217
+msgid "Open link with..."
+msgstr "Открыть ссылку с помощью..."
+
+#: knowit.cpp:219
+msgid "&Modify link..."
+msgstr "&Изменить ссылку..."
+
+#: knowit.cpp:221
+msgid "&Copy link location"
+msgstr ""
+
+#: knowit.cpp:230
+msgid "&Tip of the day"
+msgstr "&Подсказка дня"
+
+#: knowit.cpp:234
+msgid "Minimize"
+msgstr "Минимизировать"
+
+#: knowit.cpp:236
+msgid "Switch area"
+msgstr "Переключить область"
+
+#: knowit.cpp:238
+msgid "Overwrite Mode"
+msgstr "Режим замены"
+
+#: knowit.cpp:240
+msgid "Go to previous note"
+msgstr "Перейти к предидущему примечанию"
+
+#: knowit.cpp:242
+msgid "Go to next note"
+msgstr "Перейти к следующему примечанию"
+
+#: knowit.cpp:244
+msgid "Go to first note"
+msgstr "Перейти к первому примечанию"
+
+#: knowit.cpp:246
+msgid "Go to last note"
+msgstr "Перейти к последнему примечанию"
+
+#: knowit.cpp:248
+msgid "Go to first subnote"
+msgstr "Переместить к первому под-примечанию"
+
+#: knowit.cpp:250
+msgid "Go to parent note"
+msgstr "Перейти к родительскому примечанию"
+
+#: knowit.cpp:262 knowit.cpp:1228
+msgid "INS"
+msgstr "ВСТ"
+
+#: knowit.cpp:306
+msgid ""
+"<qt><p>Cannot open resource file <b>knowitui.rc</b>. Some of the menus and "
+"toolbars will be missing.</p><p>Probably Knowit was not installed properly. "
+"If you installed from source, please invoke <i>make install</i>.If you use "
+"precompiled package, please contact packager.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:323 knowit.cpp:1131
+msgid "<qt>Cannot open file<br><b>%1</b></qt>"
+msgstr "<qt>Не могу открыть файл<br><b>%1</b></qt>"
+
+#: knowit.cpp:374
+msgid "File %1 opened."
+msgstr "Файл %1 открыт."
+
+#: knowit.cpp:389
+msgid "<qt>Cannot save file<br><b>%1</b></qt>"
+msgstr "<qt>Не могу сохранить файл<br><b>%1</b></qt>"
+
+#: knowit.cpp:405
+msgid "File %1 saved."
+msgstr "Файл %1 сохранен."
+
+#: knowit.cpp:441
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"cannot be saved. Quit anyway?</qt>"
+msgstr ""
+"<qt>Файл <b>%1</b>\n"
+"был изменён. Хотите его сохранить?</qt>"
+
+#: knowit.cpp:446
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"was modified. Do you want to save it?</qt>"
+msgstr ""
+"<qt>Файл <b>%1</b>\n"
+"был изменён. Хотите его сохранить?</qt>"
+
+#: knowit.cpp:463
+msgid "untitled.kno"
+msgstr "безымянный.kno"
+
+#: knowit.cpp:489
+msgid "<qt>Sought text:<br><b>%1</b><br>not found.</qt>"
+msgstr "<qt>Искомый текст:<br><b>%1</b><br>не найден.</qt>"
+
+#: knowit.cpp:621
+msgid "Add note"
+msgstr "Добавить примечание"
+
+#: knowit.cpp:622 knowit.cpp:646
+msgid "Note title:"
+msgstr "Название примечания:"
+
+#: knowit.cpp:641
+msgid "You have to choose note before adding subnote."
+msgstr "Сначала выберите примечание для добавления под-примечания."
+
+#: knowit.cpp:645
+msgid "Add subnote"
+msgstr "Добавить под-примечание"
+
+#: knowit.cpp:666
+msgid ""
+"<qt>Are you sure you want to delete note<br><b>%1</b><br> and its subnotes?</"
+"qt>"
+msgstr ""
+"<qt>Вы уверены, что хотите удалить примечание<br><b>%1</b><br> и его под-"
+"примечания?</qt>"
+
+#: knowit.cpp:668
+msgid "<qt>Are you sure you want to delete note<br><b>%1</b>?</qt>"
+msgstr "<qt>Вы уверены, что хотите удалить примечание<br><b>%1</b>?</qt>"
+
+#: knowit.cpp:838 knowit.cpp:875
+msgid ""
+"*.kno|KnowIt files (*.kno)\n"
+"*|All files"
+msgstr ""
+"*.kno|файлы KnowIt (*.kno)\n"
+"*|All files"
+
+#: knowit.cpp:838
+msgid "Open File..."
+msgstr "Открыть файл..."
+
+#: knowit.cpp:857
+msgid ""
+"<qt><p>File couldn not be saved automatically.<p>Autosaving disabled - save "
+"file manually to turn autosaving on.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:875
+msgid "Save as..."
+msgstr "Сохранить как..."
+
+#: knowit.cpp:881 knowit.cpp:973
+msgid "<qt>File<br><b>%1</b><br>already exists. Overwrite it?</qt>"
+msgstr "<qt>Файл<br><b>%1</b><br>уже существует. Переписать?</qt>"
+
+#: knowit.cpp:897
+msgid "<qt><h1>%1</h1>Document path: %2<br>Number of notes: %3</qt>"
+msgstr "<qt><h1>%1</h1>Путь в документу: %2<br>Количество примечаний: %3</qt>"
+
+#: knowit.cpp:967
+msgid ""
+"*.html|HTML files (*.html)\n"
+"*|All files"
+msgstr ""
+"*.html|файлы HTML (*.html)\n"
+"*|All files"
+
+#: knowit.cpp:967
+msgid "Export to HTML"
+msgstr "Экспортировать в HTML"
+
+#: knowit.cpp:1092
+msgid "Go to"
+msgstr "Перейти"
+
+#: knowit.cpp:1093
+msgid "Go to page with given title"
+msgstr "Перейти на страницу с заданным названием"
+
+#: knowit.cpp:1126 knowitlink.cpp:90
+msgid "*|All files"
+msgstr "*|Все файлы"
+
+#: knowit.cpp:1126
+msgid "Insert file..."
+msgstr "Вставить файл..."
+
+#: knowit.cpp:1227
+msgid "OVR"
+msgstr "ЗАМ"
+
+#: knowit.cpp:1263
+msgid ""
+"You have just added your first link. Please remember that only links are "
+"stored in Knowit document, not linked files. If you move your document to "
+"other computer, links to local files probably won't work."
+msgstr ""
+"Вы просто добавили вашу первую ссылку. Пожалуйста помните, что будет "
+"сохранена только ссылка, а не файлы, указанные в ссылках. Если вы "
+"переместите файл на другой компьютер, ссылки на локальные файлы могут не "
+"работать."
+
+#: knowit.cpp:1273
+msgid "<qt>Are you sure you want to remove link:<br><b>%1</b>?</qt>"
+msgstr "<qt>Вы уверены, что хотите удалить ссылку<br><b>%1</b>?</qt>"
+
+#: knowitedit.moc.cpp:34 knowitedit.moc.cpp:42
+#, fuzzy
+msgid "KnowitEdit"
+msgstr "Knowit"
+
+#: knowitlink.cpp:34
+msgid "Modify link"
+msgstr "Изменить ссылку"
+
+#: knowitlink.cpp:40
+msgid "Referenced item:"
+msgstr ""
+
+#: knowitlink.cpp:42
+#, fuzzy
+msgid "File or URL"
+msgstr "Введите имя файла или URL:"
+
+#: knowitlink.cpp:43
+#, fuzzy
+msgid "KnowIt note"
+msgstr "KnowIt"
+
+#: knowitlink.cpp:55
+#, fuzzy
+msgid "Link description:"
+msgstr "Изменить описание"
+
+#: knowitlink.cpp:90
+#, fuzzy
+msgid "Choose link..."
+msgstr "&Изменить ссылку..."
+
+#: knowitlink.moc.cpp:34 knowitlink.moc.cpp:42
+msgid "KnowitLinkDialog"
+msgstr ""
+
+#: knowitlinks.moc.cpp:34 knowitlinks.moc.cpp:42
+#, fuzzy
+msgid "KnowitLinks"
+msgstr "Knowit"
+
+#: knowit.moc.cpp:34 knowit.moc.cpp:42
+msgid "Knowit"
+msgstr "Knowit"
+
+#: knowitpref.cpp:96
+msgid "New note"
+msgstr "Новой примечание"
+
+#: knowitpref.cpp:132
+msgid "KnowIt Preferences"
+msgstr "Свойства KnowIt"
+
+#: knowitpref.cpp:138
+#, fuzzy
+msgid "General"
+msgstr "&Основное"
+
+#: knowitpref.cpp:138
+msgid "General options"
+msgstr "Основные настройки"
+
+#: knowitpref.cpp:141
+msgid "&Dock in System tray"
+msgstr "&Прикреплять в системный док"
+
+#: knowitpref.cpp:142
+msgid "Open &last file on startup"
+msgstr "Открывать &последний файл при старте"
+
+#: knowitpref.cpp:146
+msgid "Autosave:"
+msgstr "Автосохранение:"
+
+#: knowitpref.cpp:148
+msgid "every "
+msgstr "каждые "
+
+#: knowitpref.cpp:149
+msgid " min."
+msgstr " минут"
+
+#: knowitpref.cpp:150
+msgid "Never"
+msgstr "Никогда"
+
+#: knowitpref.cpp:151
+msgid ""
+"Current file will be automatically saved after the specified interval. Set "
+"to <i>never</i> to disable autosave."
+msgstr ""
+"Текущий фал будет периодически сохранятся с указанным промежутком времени. "
+"Установите в <i>никогда</i> для запрещения автосохранения."
+
+#: knowitpref.cpp:154
+#, fuzzy
+msgid "Automatically save file on e&xit"
+msgstr "Автоматически сворачивать другие примечания."
+
+#: knowitpref.cpp:156
+#, fuzzy
+msgid "Current file will be automatically saved on exit without confirmation."
+msgstr ""
+"Текущий фал будет периодически сохранятся с указанным промежутком времени. "
+"Установите в <i>никогда</i> для запрещения автосохранения."
+
+#: knowitpref.cpp:158
+msgid "Create &backups"
+msgstr ""
+
+#: knowitpref.cpp:160
+msgid "Create backup of current document before it is saved."
+msgstr ""
+
+#: knowitpref.cpp:161
+#, fuzzy
+msgid "Allow &multiple instances of KnowIt"
+msgstr "&Разрешить несколько запусков KnowIt"
+
+#: knowitpref.cpp:163
+msgid ""
+"If this option is disabled, only one instance of KnowIt will be allowed. If "
+"there is another instance already running, it will be automatically "
+"activated instead of running new one."
+msgstr ""
+
+#: knowitpref.cpp:170
+#, fuzzy
+msgid "Interface"
+msgstr "&Интерфейс"
+
+#: knowitpref.cpp:170
+msgid "Interface options"
+msgstr "Настройки интерфейса"
+
+#: knowitpref.cpp:173
+msgid "Split window &horizontally"
+msgstr "Разделить окно &горизонтально"
+
+#: knowitpref.cpp:174
+msgid ""
+"If this option is set, notes tree will be displayed on the left and the "
+"editor on the right (this is default).<br>Otherwise notes tree will be "
+"displayed at the top and the editor at the bottom."
+msgstr ""
+"Если эта настройка включена, примечания будут отображаться слева и редактор "
+"справа (по умолчанию).<br>Иначе дерево примечаний будет отображаться сверху "
+"и редактор снизу."
+
+#: knowitpref.cpp:180
+msgid "Default note name:"
+msgstr "Имя примечания  по умолчанию:"
+
+#: knowitpref.cpp:182
+msgid ""
+"Default name for new notes. It would be autoselected, so if you often copy "
+"text using mouse selection, you may consider setting default name to none."
+msgstr "Имя по умолчанию для примечания. %1"
+
+#: knowitpref.cpp:188
+msgid "Link format:"
+msgstr ""
+
+#: knowitpref.cpp:190
+msgid "Description (link)"
+msgstr ""
+
+#: knowitpref.cpp:191
+#, fuzzy
+msgid "Link (description)"
+msgstr "Изменить описание"
+
+#: knowitpref.cpp:192
+msgid "Link only"
+msgstr ""
+
+#: knowitpref.cpp:193
+msgid "Description only"
+msgstr ""
+
+#: knowitpref.cpp:197
+#, fuzzy
+msgid "Alternate colors in tree"
+msgstr "Альтернативный цвет в списке"
+
+#: knowitpref.cpp:200
+msgid "Automatically collapse other notes"
+msgstr "Автоматически сворачивать другие примечания."
+
+#: knowitpref.cpp:201
+msgid ""
+"If this option is set, only current subtree will be visible, other notes "
+"will be automatically collapsed."
+msgstr ""
+"Если эта настройка включена, только текущее поддерево будет видно. Другие "
+"примечания будут автоматически свёрнуты."
+
+#: knowitpref.cpp:207
+#, fuzzy
+msgid "Editor"
+msgstr "&Редактор"
+
+#: knowitpref.cpp:207
+msgid "Editor options"
+msgstr "Настройки редактора"
+
+#: knowitpref.cpp:210
+msgid "Use &word wrap"
+msgstr "Использовать &перенос слов"
+
+#: knowitpref.cpp:212
+msgid "'Enter' ends current line, not paragraph"
+msgstr ""
+
+#: knowitpref.cpp:214
+msgid "'Tab' in editor changes focus"
+msgstr ""
+
+#: knowitpref.cpp:221
+msgid "Use &custom colors"
+msgstr ""
+
+#: knowitpref.cpp:230
+msgid "Use custom font:"
+msgstr ""
+
+#: knowitpref.cpp:242
+#, fuzzy
+msgid "Templates"
+msgstr "&Шаблоны"
+
+#: knowitpref.cpp:242
+msgid "Templates configuration"
+msgstr "Конфигурация шаблонов"
+
+#: knowitpref.cpp:245
+msgid ""
+"<html>\n"
+"<p>These expressions may be used: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>the day as number without a leading zero (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>the day as number with a leading zero (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>the abbreviated localized day name (e.g. 'Mon'..'Sun')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>the long localized day name (e.g. 'Monday'..'Sunday')</"
+"td></tr>\n"
+"<tr><th>M</th><td>the month as number without a leading zero (1-12)</td></"
+"tr>\n"
+"<tr><th>MM</th><td>the month as number with a leading zero (01-12)</td></"
+"tr>\n"
+"<tr><th>MMM</th><td>the abbreviated localized month name (e.g. 'Jan'..'Dec')"
+"</td></tr>\n"
+"<tr><th>MMMM</th><td>the long localized month name (e.g. "
+"'January'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>the year as two digit number (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>the year as four digit number (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>the hour without a leading zero (0..23 or 1..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>hh</th><td>the hour with a leading zero (00..23 or 01..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>m</th><td>the minute without a leading zero (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>the minute with a leading zero (00..59)</td></tr>\n"
+"<tr><th>s</th><td>the second without a leading zero (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>the second with a leading zero (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+msgstr ""
+"<html>\n"
+"<p>Эти выражения могут использоваться: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>номер дня без впередистоящего нуля (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>номер дня с впередистоящим нулём (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>аббревиатура локализованного дня недели ('Пон'..'Вск')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>полное название дня недели "
+"('Понедельник'..'Воскресение')</td></tr>\n"
+"<tr><th>M</th><td>номер месяца без впередистоящего нуля (1-12)</td></tr>\n"
+"<tr><th>MM</th><td>номер месяца с впередистоящим нулём (01-12)</td></tr>\n"
+"<tr><th>MMM</th><td>аббревиатура локализованного названия месяца "
+"('Янв'..'Дек')</td></tr>\n"
+"<tr><th>MMMM</th><td>полное локализованное название месяца "
+"('Январь'..'Декабрь')</td></tr>\n"
+"<tr><th>yy</th><td>год, как 2 цифры (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>год, как 4 цифры (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>час без впередистоящего нуля (0..23 или 1..12 если AM/PM "
+"включено)</td></tr>\n"
+"<tr><th>hh</th><td>час с впередистоящим нулём (00..23 или 01..12 если AM/PM "
+"включено)</td></tr>\n"
+"<tr><th>m</th><td>минуты без впередистоящего нуля (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>минуты с впередистоящим нулём  (00..59)</td></tr>\n"
+"<tr><th>s</th><td>секунды без впередистоящего нуля  (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>секунды с впередистоящим нулём  (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>показывать AM/PM</td></tr>\n"
+"<tr><th>AP</th><td>показывать am/pm</td></tr>\n"
+"</table></html>"
+
+#: knowitpref.cpp:270
+msgid "Date Format: "
+msgstr "Формат даты:"
+
+#: knowitpref.moc.cpp:34 knowitpref.moc.cpp:42
+msgid "KnowitPreferences"
+msgstr "KnowitPreferences"
+
+#: knowittray.cpp:24
+msgid "&Undock"
+msgstr "&Открепить"
+
+#: knowittree.cpp:29
+msgid "Notes"
+msgstr "Примечания"
+
+#: knowittree.cpp:38
+msgid ""
+"<h2>Notes hierarchy</h2>Here you can browse notes tree. You can also add "
+"notes using right-click menu, or reorganize them using drag and drop."
+msgstr ""
+"<h2>Иерархия примечаний</h2>Здесь Вы можете просмотреть дерево примечаний. "
+"Также Вы можете добавить примечание используя правую кнопку мыши, или "
+"реорганизовать их перетаскивая мышкой."
+
+#: knowittree.moc.cpp:34 knowittree.moc.cpp:42
+#, fuzzy
+msgid "KnowitTree"
+msgstr "Knowit"
+
+#: main.cpp:25
+#, fuzzy
+msgid "KnowIt - notes management utility"
+msgstr "KnowIt - утилита управления примечаниями"
+
+#: main.cpp:30
+msgid "Document to open"
+msgstr "Документ для открытия"
+
+#: main.cpp:36
+msgid "KnowIt"
+msgstr "KnowIt"
+
+#: main.cpp:40 _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Алексей Колосов"
+
+#: main.cpp:41 _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "alexey.kolosov@mail.ru"
+
+#: notes.cpp:239
+msgid "KnowIt document"
+msgstr "KnowIt-документ"
+
+#: notes.cpp:258
+#, fuzzy
+msgid "Exported from %1 by KnowIt %2, %3."
+msgstr "Экспортировано из %1 программой KnowIt %2, %3"
+
+#: rc.cpp:1
+#, fuzzy
+msgid "&Font"
+msgstr "&Шрифт"
+
+#: rc.cpp:2
+msgid "&Paragraph"
+msgstr "&Параграф"
+
+#: rc.cpp:3
+#, fuzzy
+msgid "&List"
+msgstr "&Ссылки"
+
+#: rc.cpp:4 rc.cpp:9
+msgid "&Notes"
+msgstr "&Примечания"
+
+#: rc.cpp:5 rc.cpp:10
+msgid "&Position"
+msgstr "&Позиция"
+
+#: rc.cpp:6 rc.cpp:11
+msgid "&Tree"
+msgstr "&Дерево"
+
+#: rc.cpp:7 rc.cpp:8
+msgid "&Links"
+msgstr "&Ссылки"
+
+#: rc.cpp:12
+#, fuzzy
+msgid "Edit toolbar"
+msgstr "Показывать панель инструментов"
+
+#: rc.cpp:13
+#, fuzzy
+msgid "Notes toolbar"
+msgstr "Показывать панель инструментов"
+
+#: rc.cpp:14
+#, fuzzy
+msgid "Links toolbar"
+msgstr "Показывать панель инструментов"
+
+#: tips.cpp:3
+msgid "<p>...that you can insert a breakline using <tt>Control+Enter</tt>?\n"
+msgstr ""
+"<p>...что Вы можете вставить разрыв строки нажав <tt>Control+Enter</tt>?\n"
+
+#: tips.cpp:7
+msgid ""
+"<p>...that you can create list, starting lines with <tt>*</tt>\n"
+"or <tt>-<tt>?\n"
+msgstr ""
+"<p>...что Вы можете создать список, начав строку с <tt>*</tt>\n"
+"или <tt>-<tt>?\n"
+
+#: tips.cpp:12
+#, fuzzy
+msgid ""
+"<p>...that if KnowIt is docked on logout, it would be reopen and\n"
+"docked next time you start KDE?\n"
+msgstr ""
+"<p>...что если Knowit прикреплен к доку во время завершения сеанса, он "
+"будет\n"
+"самостоятельно запущен при следующих стартах KDE?\n"
+
+#: tips.cpp:17
+msgid "<p>...that you can disable toolbar using Options->Configure...?\n"
+msgstr ""
+"<p>...что Вы можете отключить панель инструментов используя меню Настройка-"
+">Настроить KnowIt...?\n"
+
+#: tips.cpp:21
+msgid ""
+"<p>...that you can configure all shortcuts using\n"
+"Options->Configure shortcuts?\n"
+msgstr ""
+"<p>...что Вы можете настроить все быстрые клавиши используя меню\n"
+"Настройка->Настроить быстрые клавиши?\n"
+
+#: tips.cpp:26
+msgid "<p>...that you can always invoke Tip window using Help menu?\n"
+msgstr ""
+"<p>...что Вы всегда можете вызвать окно с подсказками используя меню "
+"Помощь?\n"
+
+#: tips.cpp:30
+msgid ""
+"<p>...that you can change current note with <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+msgstr ""
+"<p>...что Вы можете изменять текущее примечание используя <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> и <tt>Alt+End</tt>, даже если редактор активен?\n"
+
+#: tips.cpp:36
+msgid ""
+"<p>...that you can move current note with <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, even if editor is "
+"active?\n"
+msgstr ""
+"<p>...что Вы можете перемещать текущее примечание используя <tt>Alt+Shift"
+"+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> и <tt>Alt+Shift+End</tt>, даже если редактор "
+"активен?\n"
+
+#: tips.cpp:42
+msgid ""
+"<p>...that you can toggle Insert Mode from normal insert to overwrite \n"
+"by either pressing <tt>Insert</tt> button or by clicking on the status \n"
+"in the status bar?\n"
+msgstr ""
+"<p>...что Вы можете переключать режим вставки и замены всего лишь  \n"
+"нажатием клавиши <tt>Insert</tt> или кликом мыши на статус в \n"
+"панели состояния.\n"
+
+#~ msgid "Configure output"
+#~ msgstr "Конфигурировать вывод"
+
+#~ msgid "Choose notes"
+#~ msgstr "Выберите примечание"
+
+#~ msgid "Modify &description..."
+#~ msgstr "Изменить &описание..."
+
+#~ msgid "Add link"
+#~ msgstr "Добавить ссылку"
+
+#~ msgid "Enter description for current link:"
+#~ msgstr "Введите описание для текущей ссылки:"
+
+#~ msgid "New subnote"
+#~ msgstr "Новое под-примечание"
+
+#~ msgid "Date &Format"
+#~ msgstr "Формат &даты"
+
+#~ msgid "Add &subnote..."
+#~ msgstr "Добавить &под-примечание..."
+
+#~ msgid "&Tutorial"
+#~ msgstr "&Руководство"
+
+#~ msgid "Cannot move this note."
+#~ msgstr "Не могу переместить это примечание."

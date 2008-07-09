@@ -1,0 +1,980 @@
+# KnowIt - hungarian
+# sessionID <sessionid@mailbox.hu>, 2003
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2004-03-31 14:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: sessionID <sessionid@mailbox.hu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-2\n"
+"Content-Transfer-Encoding: ISO-8859-2\n"
+
+#: knowitapp.moc.cpp:34 knowitapp.moc.cpp:42
+msgid "KnowitApplication"
+msgstr ""
+
+#: knowitchooser.cpp:35
+msgid "&Exported notes:"
+msgstr ""
+
+#: knowitchooser.cpp:38
+#, fuzzy
+msgid "All"
+msgstr "&Mind"
+
+#: knowitchooser.cpp:39
+#, fuzzy
+msgid "Current with children"
+msgstr "Aktuális és &gyerekek"
+
+#: knowitchooser.cpp:40
+#, fuzzy
+msgid "Current only"
+msgstr "&Csak az aktuális"
+
+#: knowitchooser.cpp:42
+msgid "&Encoding:"
+msgstr ""
+
+#: knowitchooser.cpp:45
+msgid "Local (8-bit)"
+msgstr ""
+
+#: knowitchooser.cpp:46
+msgid "UTF-8"
+msgstr ""
+
+#: knowitchooser.cpp:49
+#, fuzzy
+msgid "Numbered titles"
+msgstr "Jegyzet &címe:"
+
+#: knowitchooser.cpp:51 notes.cpp:249
+msgid "Table of contents"
+msgstr ""
+
+#: knowitchooser.cpp:53
+msgid "Rule betweeen notes"
+msgstr ""
+
+#: knowitchooser.cpp:55
+msgid "Use editor font and colors"
+msgstr ""
+
+#: knowitchooser.moc.cpp:34 knowitchooser.moc.cpp:42
+msgid "KnowitChooser"
+msgstr "Knowit választó"
+
+#: knowit.cpp:53
+msgid "untitled"
+msgstr "névtelen"
+
+#: knowit.cpp:59
+msgid "Ready"
+msgstr "Kész"
+
+#: knowit.cpp:74
+msgid "Move it to change tree/edit layout."
+msgstr "Mozgasd a fa módosításához/a külalak megváltoztatásához"
+
+#: knowit.cpp:85
+msgid ""
+"<h2>Note text</h2>Add text for selected note here.\n"
+"Text can be formatted, for example <b>bold</b> or <i>italic</i>."
+msgstr ""
+"<h2>Jegyzet szövege</h2>Itt add meg a kiválasztott jegyzet szövegét.\n"
+"A szöveg foprmázható, például: <b>vastag</b> vagy <i>dõlt</i>."
+
+#: knowit.cpp:111
+msgid "&Export to HTML..."
+msgstr "&Exportálás HTML-be..."
+
+#: knowit.cpp:114
+msgid "Document &information..."
+msgstr "Dokumentum &információ..."
+
+#: knowit.cpp:124
+msgid "Toggle &bold"
+msgstr "&Vastag"
+
+#: knowit.cpp:126
+msgid "Toggle &italic"
+msgstr "&Dõlt"
+
+#: knowit.cpp:129
+msgid "Toggle &underline"
+msgstr "&Aláhúzott"
+
+#: knowit.cpp:132
+msgid "&Text color..."
+msgstr "Szöveg &színe..."
+
+#: knowit.cpp:134
+msgid "&Superscript"
+msgstr "&Felsõ index"
+
+#: knowit.cpp:136
+msgid "&Subscript"
+msgstr "&Alsó index"
+
+#: knowit.cpp:138
+msgid "&Normal text"
+msgstr "&Normál szöveg"
+
+#: knowit.cpp:140
+msgid "&Bullet list"
+msgstr ""
+
+#: knowit.cpp:142
+#, fuzzy
+msgid "&Numbered list"
+msgstr "Jegyzet &címe:"
+
+#: knowit.cpp:144
+msgid "&Uppercase list"
+msgstr ""
+
+#: knowit.cpp:146
+msgid "&Lowercase list"
+msgstr ""
+
+#: knowit.cpp:148
+msgid "N&o list"
+msgstr ""
+
+#: knowit.cpp:152
+msgid "&Go to &note..."
+msgstr "Jegyzethez &ugrás..."
+
+#: knowit.cpp:154
+msgid "Align &left"
+msgstr "&Balra igazít"
+
+#: knowit.cpp:156
+msgid "Align &right"
+msgstr "&Jobbra igazít"
+
+#: knowit.cpp:158
+msgid "&Justify"
+msgstr "&Sorkizárt"
+
+#: knowit.cpp:160
+msgid "&Center"
+msgstr "&Középre"
+
+#: knowit.cpp:162
+msgid "Insert &date"
+msgstr "&Dátum beszúrása"
+
+#: knowit.cpp:164
+msgid "Insert &file..."
+msgstr "&File beszúrása"
+
+#: knowit.cpp:166
+msgid "&Raw Text Mode"
+msgstr "&Nyers szöveg mód"
+
+#: knowit.cpp:179
+msgid "&Add"
+msgstr "&Hozzáad"
+
+#: knowit.cpp:181
+msgid "Add &subnote"
+msgstr "&Al-jegyzet beszúrása"
+
+#: knowit.cpp:185
+msgid "&Rename"
+msgstr "Át&nevezés"
+
+#: knowit.cpp:187
+msgid "E&xpand all"
+msgstr "Mindet &kinyit"
+
+#: knowit.cpp:189
+msgid "&Expand current"
+msgstr "Aktuálisat k&inyit"
+
+#: knowit.cpp:191
+msgid "Co&llapse all"
+msgstr "Mindet &bezár"
+
+#: knowit.cpp:193
+msgid "&Collapse current"
+msgstr "Aktuálisat b&ezár"
+
+#: knowit.cpp:195
+msgid "Move up"
+msgstr "Felfelé mozgat"
+
+#: knowit.cpp:197
+msgid "Move down"
+msgstr "Lefelé mozgat"
+
+#: knowit.cpp:199
+msgid "Move level up"
+msgstr "Egy szintet fel"
+
+#: knowit.cpp:201
+msgid "Move level down"
+msgstr "Egy szintet le"
+
+#: knowit.cpp:203
+msgid "Move at the beginning"
+msgstr "Elejére mozgat"
+
+#: knowit.cpp:205
+msgid "Move at the end"
+msgstr "Végére mozgat"
+
+#: knowit.cpp:207
+msgid "Sort"
+msgstr "Rendezés"
+
+#: knowit.cpp:211
+#, fuzzy
+msgid "&Add link..."
+msgstr "&Jegyzet hozzáadása..."
+
+#: knowit.cpp:213
+msgid "&Remove link"
+msgstr "Link eltávolítása"
+
+#: knowit.cpp:215
+msgid "Open link"
+msgstr "Link megnyitása"
+
+#: knowit.cpp:217
+#, fuzzy
+msgid "Open link with..."
+msgstr "File &megnyitása"
+
+#: knowit.cpp:219
+msgid "&Modify link..."
+msgstr "Link &módosítása"
+
+#: knowit.cpp:221
+msgid "&Copy link location"
+msgstr ""
+
+#: knowit.cpp:230
+msgid "&Tip of the day"
+msgstr "A nap &tippje"
+
+#: knowit.cpp:234
+msgid "Minimize"
+msgstr "Minimalizál"
+
+#: knowit.cpp:236
+msgid "Switch area"
+msgstr "Terület kapcsolása"
+
+#: knowit.cpp:238
+msgid "Overwrite Mode"
+msgstr "Felülírásos mód"
+
+#: knowit.cpp:240
+msgid "Go to previous note"
+msgstr "Elõzõ jegyzetre ugrás"
+
+#: knowit.cpp:242
+msgid "Go to next note"
+msgstr "Következõ jegyzethez ugrás..."
+
+#: knowit.cpp:244
+msgid "Go to first note"
+msgstr "Elsõ jegyzethez &ugrás..."
+
+#: knowit.cpp:246
+msgid "Go to last note"
+msgstr "Utolsó jegyzethez &ugrás..."
+
+#: knowit.cpp:248
+#, fuzzy
+msgid "Go to first subnote"
+msgstr "Elsõ al-jegyzethez ugrás"
+
+#: knowit.cpp:250
+#, fuzzy
+msgid "Go to parent note"
+msgstr "Szülõ jegyzethez ugrás"
+
+#: knowit.cpp:262 knowit.cpp:1228
+msgid "INS"
+msgstr "BEILLESZT"
+
+#: knowit.cpp:306
+msgid ""
+"<qt><p>Cannot open resource file <b>knowitui.rc</b>. Some of the menus and "
+"toolbars will be missing.</p><p>Probably Knowit was not installed properly. "
+"If you installed from source, please invoke <i>make install</i>.If you use "
+"precompiled package, please contact packager.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:323 knowit.cpp:1131
+msgid "<qt>Cannot open file<br><b>%1</b></qt>"
+msgstr "<qt>Nem tudom megnyitni a <br><b>%1</b> filet</qt>"
+
+#: knowit.cpp:374
+msgid "File %1 opened."
+msgstr "A(z) %1 file megnyitva"
+
+#: knowit.cpp:389
+msgid "<qt>Cannot save file<br><b>%1</b></qt>"
+msgstr "<qt>Nem tudom elmenteni a(z) <br><b>%1</b> filet</qt>"
+
+#: knowit.cpp:405
+msgid "File %1 saved."
+msgstr "A(z) %1 file elmentve"
+
+#: knowit.cpp:441
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"cannot be saved. Quit anyway?</qt>"
+msgstr ""
+"<qt>A(z) <b>%1</b> file\n"
+"megváltozott. Elmented?</qt>"
+
+#: knowit.cpp:446
+#, fuzzy
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"was modified. Do you want to save it?</qt>"
+msgstr ""
+"<qt>A(z) <b>%1</b> file\n"
+"megváltozott. Elmented?</qt>"
+
+#: knowit.cpp:463
+#, fuzzy
+msgid "untitled.kno"
+msgstr "névtelen"
+
+#: knowit.cpp:489
+msgid "<qt>Sought text:<br><b>%1</b><br>not found.</qt>"
+msgstr "<qt>A keresett szöveget:<br><b>%1</b><br>nem találtam.</qt>"
+
+#: knowit.cpp:621
+msgid "Add note"
+msgstr "Jegyzet &hozzáadása"
+
+#: knowit.cpp:622 knowit.cpp:646
+msgid "Note title:"
+msgstr "Jegyzet &címe:"
+
+#: knowit.cpp:641
+msgid "You have to choose note before adding subnote."
+msgstr "Al-jegyzet beszúrása elõtt válassz ki egy jegyzetet."
+
+#: knowit.cpp:645
+msgid "Add subnote"
+msgstr "&Al-jegyzet beszúrása"
+
+#: knowit.cpp:666
+msgid ""
+"<qt>Are you sure you want to delete note<br><b>%1</b><br> and its subnotes?</"
+"qt>"
+msgstr "<qt>Biztosan törlöd a<br><b>%1</b><br>jegyzetet és al-jegyzeteit?</qt>"
+
+#: knowit.cpp:668
+msgid "<qt>Are you sure you want to delete note<br><b>%1</b>?</qt>"
+msgstr "<qt>Biztosan törlöd a<br><b>%1</b>jegyzetet?</qt>"
+
+#: knowit.cpp:838 knowit.cpp:875
+#, fuzzy
+msgid ""
+"*.kno|KnowIt files (*.kno)\n"
+"*|All files"
+msgstr ""
+"*.kno|KnowIt fileok (*.kno)\n"
+"*|Minden file"
+
+#: knowit.cpp:838
+msgid "Open File..."
+msgstr "File &megnyitása"
+
+#: knowit.cpp:857
+msgid ""
+"<qt><p>File couldn not be saved automatically.<p>Autosaving disabled - save "
+"file manually to turn autosaving on.</p></qt>"
+msgstr ""
+
+#: knowit.cpp:875
+msgid "Save as..."
+msgstr "Mentés mint..."
+
+#: knowit.cpp:881 knowit.cpp:973
+msgid "<qt>File<br><b>%1</b><br>already exists. Overwrite it?</qt>"
+msgstr "<qt>A<br><b>%1</b><br> file már létezik. Felülírod?</qt>"
+
+#: knowit.cpp:897
+msgid "<qt><h1>%1</h1>Document path: %2<br>Number of notes: %3</qt>"
+msgstr "<qt><h1>%1</h1>Dokumentum helye: %2<br>Jegyzetek száma: %3</qt>"
+
+#: knowit.cpp:967
+msgid ""
+"*.html|HTML files (*.html)\n"
+"*|All files"
+msgstr ""
+"*.html|HTML fileok (*.html)\n"
+"*|Minden file"
+
+#: knowit.cpp:967
+msgid "Export to HTML"
+msgstr "Exportálás HTML-be"
+
+#: knowit.cpp:1092
+msgid "Go to"
+msgstr "Ugrás"
+
+#: knowit.cpp:1093
+msgid "Go to page with given title"
+msgstr "Ugrás az adott címû oldalra"
+
+#: knowit.cpp:1126 knowitlink.cpp:90
+msgid "*|All files"
+msgstr "*|Minden file"
+
+#: knowit.cpp:1126
+msgid "Insert file..."
+msgstr "File beszúrása"
+
+#: knowit.cpp:1227
+msgid "OVR"
+msgstr "FELÜLÍR"
+
+#: knowit.cpp:1263
+msgid ""
+"You have just added your first link. Please remember that only links are "
+"stored in Knowit document, not linked files. If you move your document to "
+"other computer, links to local files probably won't work."
+msgstr ""
+
+#: knowit.cpp:1273
+#, fuzzy
+msgid "<qt>Are you sure you want to remove link:<br><b>%1</b>?</qt>"
+msgstr "<qt>Biztosan törlöd a<br><b>%1</b>jegyzetet?</qt>"
+
+#: knowitedit.moc.cpp:34 knowitedit.moc.cpp:42
+#, fuzzy
+msgid "KnowitEdit"
+msgstr "Knowit"
+
+#: knowitlink.cpp:34
+msgid "Modify link"
+msgstr "Link módosítása"
+
+#: knowitlink.cpp:40
+msgid "Referenced item:"
+msgstr "Hivatkozott elemek:"
+
+#: knowitlink.cpp:42
+msgid "File or URL"
+msgstr "File vagy URL"
+
+#: knowitlink.cpp:43
+#, fuzzy
+msgid "KnowIt note"
+msgstr "Knowit jegyzet"
+
+#: knowitlink.cpp:55
+msgid "Link description:"
+msgstr "Link leírása:"
+
+#: knowitlink.cpp:90
+#, fuzzy
+msgid "Choose link..."
+msgstr "Válassza ki a jegyzeteket"
+
+#: knowitlink.moc.cpp:34 knowitlink.moc.cpp:42
+msgid "KnowitLinkDialog"
+msgstr ""
+
+#: knowitlinks.moc.cpp:34 knowitlinks.moc.cpp:42
+#, fuzzy
+msgid "KnowitLinks"
+msgstr "Knowit"
+
+#: knowit.moc.cpp:34 knowit.moc.cpp:42
+msgid "Knowit"
+msgstr "Knowit"
+
+#: knowitpref.cpp:96
+msgid "New note"
+msgstr "&Új jegyzet"
+
+#: knowitpref.cpp:132
+msgid "KnowIt Preferences"
+msgstr "KnowIt beállítások"
+
+#: knowitpref.cpp:138
+#, fuzzy
+msgid "General"
+msgstr "Á&ltalános"
+
+#: knowitpref.cpp:138
+msgid "General options"
+msgstr "Általános beállítások"
+
+#: knowitpref.cpp:141
+msgid "&Dock in System tray"
+msgstr "&Jelenjen meg a tálcán"
+
+#: knowitpref.cpp:142
+msgid "Open &last file on startup"
+msgstr "&Legutóbbi file megnyitása induláskor"
+
+#: knowitpref.cpp:146
+msgid "Autosave:"
+msgstr "Automatikus mentés:"
+
+#: knowitpref.cpp:148
+msgid "every "
+msgstr "minden "
+
+#: knowitpref.cpp:149
+msgid " min."
+msgstr " perc "
+
+#: knowitpref.cpp:150
+msgid "Never"
+msgstr "Soha"
+
+#: knowitpref.cpp:151
+msgid ""
+"Current file will be automatically saved after the specified interval. Set "
+"to <i>never</i> to disable autosave."
+msgstr ""
+"Az aktuális file automatikusan mentésre kerül a megadott idõ után. Válaszd a "
+"<i>soha</i> pontot az automatikus mentés kikapcsolásához."
+
+#: knowitpref.cpp:154
+#, fuzzy
+msgid "Automatically save file on e&xit"
+msgstr "Automatikusan bezárja a többi jegyzetet"
+
+#: knowitpref.cpp:156
+#, fuzzy
+msgid "Current file will be automatically saved on exit without confirmation."
+msgstr ""
+"Az aktuális file automatikusan mentésre kerül a megadott idõ után. Válaszd a "
+"<i>soha</i> pontot az automatikus mentés kikapcsolásához."
+
+#: knowitpref.cpp:158
+msgid "Create &backups"
+msgstr "&Biztonsági másolat készítése"
+
+#: knowitpref.cpp:160
+msgid "Create backup of current document before it is saved."
+msgstr "Mentés elõtt egy biztonsági másolat készül a dokumentumról."
+
+#: knowitpref.cpp:161
+msgid "Allow &multiple instances of KnowIt"
+msgstr "Több KnowIt példány engedélyezése"
+
+#: knowitpref.cpp:163
+msgid ""
+"If this option is disabled, only one instance of KnowIt will be allowed. If "
+"there is another instance already running, it will be automatically "
+"activated instead of running new one."
+msgstr ""
+"Ha ez az opció ki van kapcsolva, akkor csak egy példányban futhat a KnowIt."
+"Ha már fut egy, akkor az válik aktívvá, és nem indul el egy újabb."
+
+#: knowitpref.cpp:170
+#, fuzzy
+msgid "Interface"
+msgstr "&Felület"
+
+#: knowitpref.cpp:170
+msgid "Interface options"
+msgstr "Felület beállítások"
+
+#: knowitpref.cpp:173
+msgid "Split window &horizontally"
+msgstr "Ablak felosztása &viszintesen"
+
+#: knowitpref.cpp:174
+msgid ""
+"If this option is set, notes tree will be displayed on the left and the "
+"editor on the right (this is default).<br>Otherwise notes tree will be "
+"displayed at the top and the editor at the bottom."
+msgstr ""
+"Ha ezt az opciót választod, akkor a jegyzet-fa a bal, a szerkesztõ pedig a "
+"jobb oldalon jelenik meg (ez az alapértelmezett).<br>Egyébként a jegyzet-fa "
+"felülre, a szerkesztõ pedig alulra kerül."
+
+#: knowitpref.cpp:180
+msgid "Default note name:"
+msgstr "Alapértelmezett jegyzet név:"
+
+#: knowitpref.cpp:182
+msgid ""
+"Default name for new notes. It would be autoselected, so if you often copy "
+"text using mouse selection, you may consider setting default name to none."
+msgstr ""
+"A jegyzetek alapértelmezett neve. Automatikusan kimásolódik, tehát ha "
+"gyakran másolsz egér kijelöléssel, akkor érdemes üresen hagyni."
+
+#: knowitpref.cpp:188
+msgid "Link format:"
+msgstr "Link formátuma:"
+
+#: knowitpref.cpp:190
+msgid "Description (link)"
+msgstr "Leírás (link)"
+
+#: knowitpref.cpp:191
+msgid "Link (description)"
+msgstr "Link (leírás)"
+
+#: knowitpref.cpp:192
+msgid "Link only"
+msgstr "Csak link"
+
+#: knowitpref.cpp:193
+msgid "Description only"
+msgstr "Csak leírás"
+
+#: knowitpref.cpp:197
+#, fuzzy
+msgid "Alternate colors in tree"
+msgstr "A lista színei"
+
+#: knowitpref.cpp:200
+msgid "Automatically collapse other notes"
+msgstr "Automatikusan bezárja a többi jegyzetet"
+
+#: knowitpref.cpp:201
+msgid ""
+"If this option is set, only current subtree will be visible, other notes "
+"will be automatically collapsed."
+msgstr ""
+"ha ezt bekapcsolod, akkor csak az aktuális jegyzet lesz látható, a jegyzet-"
+"fa többi része bezáródik."
+
+#: knowitpref.cpp:207
+#, fuzzy
+msgid "Editor"
+msgstr "&Szerkesztõ"
+
+#: knowitpref.cpp:207
+msgid "Editor options"
+msgstr "Szerkesztõ beállításai"
+
+#: knowitpref.cpp:210
+msgid "Use &word wrap"
+msgstr "&Sortörés használata"
+
+#: knowitpref.cpp:212
+msgid "'Enter' ends current line, not paragraph"
+msgstr "Az 'enter' csak a sort zárja le, nem az egész bekezdést."
+
+#: knowitpref.cpp:214
+msgid "'Tab' in editor changes focus"
+msgstr "A szerkesztõben a 'tab' fókuszt vált"
+
+#: knowitpref.cpp:221
+msgid "Use &custom colors"
+msgstr "Saját &színek használata"
+
+#: knowitpref.cpp:230
+msgid "Use custom font:"
+msgstr "Saját betûkészlet használata:"
+
+#: knowitpref.cpp:242
+#, fuzzy
+msgid "Templates"
+msgstr "&Minták"
+
+#: knowitpref.cpp:242
+msgid "Templates configuration"
+msgstr "Minták beállítása"
+
+#: knowitpref.cpp:245
+#, fuzzy
+msgid ""
+"<html>\n"
+"<p>These expressions may be used: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>the day as number without a leading zero (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>the day as number with a leading zero (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>the abbreviated localized day name (e.g. 'Mon'..'Sun')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>the long localized day name (e.g. 'Monday'..'Sunday')</"
+"td></tr>\n"
+"<tr><th>M</th><td>the month as number without a leading zero (1-12)</td></"
+"tr>\n"
+"<tr><th>MM</th><td>the month as number with a leading zero (01-12)</td></"
+"tr>\n"
+"<tr><th>MMM</th><td>the abbreviated localized month name (e.g. 'Jan'..'Dec')"
+"</td></tr>\n"
+"<tr><th>MMMM</th><td>the long localized month name (e.g. "
+"'January'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>the year as two digit number (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>the year as four digit number (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>the hour without a leading zero (0..23 or 1..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>hh</th><td>the hour with a leading zero (00..23 or 01..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>m</th><td>the minute without a leading zero (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>the minute with a leading zero (00..59)</td></tr>\n"
+"<tr><th>s</th><td>the second without a leading zero (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>the second with a leading zero (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+msgstr ""
+"<html>\n"
+"<p>Az alábbi kifejezéseket használhatod: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>nap, kezdõ nulla nélkül (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>nap, kezdõ nullával (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>a nap rövidített neve (e.g. 'Mon'..'Sun')</td></tr>\n"
+"<tr><th>dddd</th><td>a nap teljes neve (e.g. 'Monday'..'Sunday')</td></tr>\n"
+"<tr><th>M</th><td>hónap, kezdõ nulla nélkül (1-12)</td></tr>\n"
+"<tr><th>MM</th><td>hónap, kezdõ nullával (01-12)</td></tr>\n"
+"<tr><th>MMM</th><td>a hónap rövidített neve (e.g. 'Jan'..'Dec')</td></tr>\n"
+"<tr><th>MMMM</th><td>a hónap teljes neve (e.g. 'January'..'December')</td></"
+"tr>\n"
+"<tr><th>yy</th><td>év, két számjegyû (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>év, négy számjegyû (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>óra, kezdõ nulla nélkül (0..23 or 1..12 if AM/PM display)</"
+"td></tr>\n"
+"<tr><th>hh</th><td>óra, kezdõ nullával (00..23 or 01..12 if AM/PM display)</"
+"td></tr>\n"
+"<tr><th>m</th><td>perc, kezdõ nulla nélkül (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>perc, kezdõ nullával (00..59)</td></tr>\n"
+"<tr><th>s</th><td>másodperc, kezdõ nulla nélkül (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>másodperc, kezdõ nullával (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>de/du megjelenítése</td></tr>\n"
+"<tr><th>AP</th><td>de/du megjelenítése</td></tr>\n"
+"</table></html>"
+
+#: knowitpref.cpp:270
+msgid "Date Format: "
+msgstr "Dátum formátuma: "
+
+#: knowitpref.moc.cpp:34 knowitpref.moc.cpp:42
+#, fuzzy
+msgid "KnowitPreferences"
+msgstr "KnowIt beállítások"
+
+#: knowittray.cpp:24
+msgid "&Undock"
+msgstr "&Ne jelenjen meg a tálcán"
+
+#: knowittree.cpp:29
+msgid "Notes"
+msgstr "Jegyzetek"
+
+#: knowittree.cpp:38
+#, fuzzy
+msgid ""
+"<h2>Notes hierarchy</h2>Here you can browse notes tree. You can also add "
+"notes using right-click menu, or reorganize them using drag and drop."
+msgstr ""
+"<h2>Jegyzet hierarchia</h2>Itt böngészheted a jegyzet-fát. Új "
+"jegyzeteketilleszthetsz be a jobb-klikk menüvel, vagy átrendezheted õket "
+"'drag&drop'-al"
+
+#: knowittree.moc.cpp:34 knowittree.moc.cpp:42
+#, fuzzy
+msgid "KnowitTree"
+msgstr "Knowit"
+
+#: main.cpp:25
+#, fuzzy
+msgid "KnowIt - notes management utility"
+msgstr "KnowIt - jegyzet kezelõ alkalmazás"
+
+#: main.cpp:30
+msgid "Document to open"
+msgstr "Megnyitandó dokumentum"
+
+#: main.cpp:36
+msgid "KnowIt"
+msgstr "KnowIt"
+
+#: main.cpp:40 _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: main.cpp:41 _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: notes.cpp:239
+msgid "KnowIt document"
+msgstr "KnowIt dokumentum"
+
+#: notes.cpp:258
+#, fuzzy
+msgid "Exported from %1 by KnowIt %2, %3."
+msgstr "Exportálva a %1 fileból, KnowIt %2, %3"
+
+#: rc.cpp:1
+#, fuzzy
+msgid "&Font"
+msgstr "&Betûtípus"
+
+#: rc.cpp:2
+msgid "&Paragraph"
+msgstr "&Mondat"
+
+#: rc.cpp:3
+#, fuzzy
+msgid "&List"
+msgstr "&Linkek"
+
+#: rc.cpp:4 rc.cpp:9
+msgid "&Notes"
+msgstr "&Jegyzetek"
+
+#: rc.cpp:5 rc.cpp:10
+msgid "&Position"
+msgstr "&Pozíció"
+
+#: rc.cpp:6 rc.cpp:11
+msgid "&Tree"
+msgstr "&Fa"
+
+#: rc.cpp:7 rc.cpp:8
+msgid "&Links"
+msgstr "&Linkek"
+
+#: rc.cpp:12
+#, fuzzy
+msgid "Edit toolbar"
+msgstr "&Eszköztár mutatása"
+
+#: rc.cpp:13
+#, fuzzy
+msgid "Notes toolbar"
+msgstr "&Eszköztár mutatása"
+
+#: rc.cpp:14
+#, fuzzy
+msgid "Links toolbar"
+msgstr "&Eszköztár mutatása"
+
+#: tips.cpp:3
+msgid "<p>...that you can insert a breakline using <tt>Control+Enter</tt>?\n"
+msgstr ""
+"<p>...hogy sortöréseket tudsz beilleszteni <tt>Control+Enter</tt> "
+"használatával?\n"
+
+#: tips.cpp:7
+#, fuzzy
+msgid ""
+"<p>...that you can create list, starting lines with <tt>*</tt>\n"
+"or <tt>-<tt>?\n"
+msgstr ""
+"<p>...hogy felsorolást készíthetsz, ha a sorokat <tt>*</tt>-al vagy <tt>-</"
+"tt>-al kezded?\n"
+
+#: tips.cpp:12
+#, fuzzy
+msgid ""
+"<p>...that if KnowIt is docked on logout, it would be reopen and\n"
+"docked next time you start KDE?\n"
+msgstr ""
+"<p>...hogy ha a KnowIt kilépéskor a tálcán van, akkor újraindul\n"
+"és megjelenik a tálcán a KDE következõ indításakor?\n"
+
+#: tips.cpp:17
+msgid "<p>...that you can disable toolbar using Options->Configure...?\n"
+msgstr ""
+"<p>...hogy kikapcsolhatod az eszköztárat a Opciók->Beállítások menüben?\n"
+
+#: tips.cpp:21
+msgid ""
+"<p>...that you can configure all shortcuts using\n"
+"Options->Configure shortcuts?\n"
+msgstr ""
+"<p>...hogy minden gyorsbillentyût beállíthatsz az Opciók->Gyorsbillentyûk "
+"menüben?\n"
+
+#: tips.cpp:26
+msgid "<p>...that you can always invoke Tip window using Help menu?\n"
+msgstr "<p>...hogy bármikor elõhívhatod a Tipp ablakot a Segítség menübõl?\n"
+
+#: tips.cpp:30
+msgid ""
+"<p>...that you can change current note with <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+msgstr ""
+"<p>...hogy a jegyzetek között az <tt>Alt+fel</tt>,\n"
+"<tt>Alt+le</tt>, <tt>Alt+balra</tt>, <tt>Alt+jobbra</tt>,\n"
+"<tt>Alt+Home</tt> és <tt>Alt+End</tt> gombokkal is mozoghatsz, még akkor is, "
+"ha a szerkesztõ aktív?\n"
+
+#: tips.cpp:36
+#, fuzzy
+msgid ""
+"<p>...that you can move current note with <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, even if editor is "
+"active?\n"
+msgstr ""
+"<p>...hogy a jegyzetet az <tt>Alt+Shift+fel</tt>,\n"
+"<tt>Alt+Shift+le</tt>, <tt>Alt+Shift+balra</tt>, <tt>Alt+Shift+jobbra</tt>,\n"
+"<tt>Alt+Shift+Home</tt> és <tt>Alt+Shift+End</tt> gombokkal is mozgathatos, "
+"még akkor is, ha a szerkesztõ aktív?\n"
+
+#: tips.cpp:42
+#, fuzzy
+msgid ""
+"<p>...that you can toggle Insert Mode from normal insert to overwrite \n"
+"by either pressing <tt>Insert</tt> button or by clicking on the status \n"
+"in the status bar?\n"
+msgstr ""
+"<p>...hogy a beillesztés és átírás módok között az <tt>Insert</tt> gombbal, "
+"vagy a státusz sor feliratára kattintva válthatsz?\n"
+
+#~ msgid "Configure output"
+#~ msgstr "Kimenet beállítása"
+
+#~ msgid "Choose notes"
+#~ msgstr "Válassza ki a jegyzeteket"
+
+#, fuzzy
+#~ msgid ""
+#~ "*.kno|Knowit files (*.kno)\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.kno|KnowIt fileok (*.kno)\n"
+#~ "*|Minden file"
+
+#, fuzzy
+#~ msgid "Add link"
+#~ msgstr "Jegyzet &hozzáadása"
+
+#~ msgid "New subnote"
+#~ msgstr "Új a&l-jegyzet"
+
+#~ msgid "Add note from list"
+#~ msgstr "Jegyzet hozzáadása a listából"
+
+#~ msgid "Add subnote in notes list"
+#~ msgstr "Al-jegyzet hozzáadása a jegyzet listában"
+
+#~ msgid "Delete subnote from notes list"
+#~ msgstr "Al-jegyzet törlése a jegyzet listában"
+
+#~ msgid "Add &subnote..."
+#~ msgstr "&Al-jegyzet hozzáadása..."
+
+#~ msgid "&Tutorial"
+#~ msgstr "&Ismertetõ"
+
+#~ msgid "Cannot move this note."
+#~ msgstr "A jegyzet nem mozgatható"

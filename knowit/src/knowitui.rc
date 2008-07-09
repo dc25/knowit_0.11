@@ -1,0 +1,190 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd">
+<kpartgui name="knowit" version="1.4">
+  <MenuBar>
+    <Menu name="file">
+      <Action name="file_export_html" />
+      <Action name="file_info" />
+    </Menu>
+      <Menu name="edit">
+      <Separator />
+        <Menu name="font" icon="fonts">
+          <text>&amp;Font</text>
+          <Action name="edit_bold"/>
+          <Action name="edit_italic"/>
+          <Action name="edit_underline"/>
+          <Action name="edit_color"/>
+          <Separator/>
+          <Action name="edit_superscript"/>
+          <Action name="edit_subscript"/>
+          <Action name="edit_align_normal"/>
+       </Menu>
+       <Menu name="align">
+         <text>&amp;Paragraph</text>
+         <Action name="edit_align_left"/>
+         <Action name="edit_align_right"/>
+         <Action name="edit_align_center"/>
+         <Action name="edit_align_justify"/>
+       </Menu>
+       <Menu name="list">
+         <text>&amp;List</text>
+         <Action name="list_bullet"/>
+         <Action name="list_number"/>
+         <Action name="list_upper"/>
+         <Action name="list_lower"/>	 
+	 <Separator />
+         <Action name="list_none"/>
+       </Menu>
+       <Action name="goto_note"/>
+       <Action name="edit_insert_date"/>
+       <Action name="edit_insert_file"/>
+       <Action name="edit_raw_text"/>
+    </Menu>
+    <Menu name="notes">
+       <text>&amp;Notes</text>
+       <Action name="note_add"/>
+       <Action name="note_add_child"/>
+       <Action name="note_delete"/>
+       <Action name="note_rename"/>
+       <Menu name="position">
+         <text>&amp;Position</text>
+         <Action name="note_move_up" />
+         <Action name="note_move_down" />
+         <Action name="note_move_left" />
+         <Action name="note_move_right" />
+         <Action name="note_move_begin" />
+         <Action name="note_move_end" />
+         <Action name="note_sort" />
+       </Menu>
+       <Menu name="tree">
+         <text>&amp;Tree</text>
+         <Action name="note_expand_all"/>
+         <Action name="note_expand"/>
+	 <Action name="note_collapse_all"/>
+	 <Action name="note_collapse"/>
+       </Menu>
+       <Action name="note_statistics" />       
+    </Menu>
+    <Menu name="links">
+      <text>&amp;Links</text>
+      <Action name="link_add"/>
+      <Action name="link_remove"/>
+      <Action name="link_open"/>
+      <Action name="link_open_with"/>
+      <Action name="link_modify"/>
+      <Action name="link_description"/>
+      <Action name="link_copy"/>
+    </Menu>
+    <Menu name="settings">
+    </Menu>
+    <Menu name="help">
+      <Action name="help_tip" />
+    </Menu>
+  </MenuBar>
+  <Menu name="links_popup">
+      <text>&amp;Links</text>
+      <Action name="link_add"/>
+      <Action name="link_remove"/>
+      <Action name="link_open"/>
+      <Action name="link_open_with"/>
+      <Action name="link_modify"/>
+      <Action name="link_copy"/>
+  </Menu>
+  <Menu name="notes_popup">
+       <text>&amp;Notes</text>
+       <Action name="note_add"/>
+       <Action name="note_add_child"/>
+       <Action name="note_delete"/>
+       <Action name="note_rename"/>
+       <Menu name="position">
+         <text>&amp;Position</text>
+         <Action name="note_move_up" />
+         <Action name="note_move_down" />
+         <Action name="note_move_left" />
+         <Action name="note_move_right" />
+         <Action name="note_move_begin" />
+         <Action name="note_move_end" />
+         <Action name="note_sort" />
+       </Menu>
+       <Menu name="tree">
+         <text>&amp;Tree</text>
+         <Action name="note_expand_all"/>
+         <Action name="note_expand"/>
+	 <Action name="note_collapse_all"/>
+	 <Action name="note_collapse"/>
+       </Menu>
+       <Action name="note_statistics"/>
+  </Menu>
+  <ToolBar name="edit">
+     <text>Edit toolbar</text>
+     <Action name="edit_bold"/>
+     <Action name="edit_italic"/>
+     <Action name="edit_underline"/>
+     <Action name="edit_color"/>
+     <Separator />
+     <Action name="edit_align_left"/>
+     <Action name="edit_align_right"/>
+     <Action name="edit_align_center"/>
+     <Action name="edit_align_justify"/>
+  </ToolBar>
+  <ToolBar name="note">
+     <text>Notes toolbar</text>
+     <Action name="note_move_up" />
+     <Action name="note_move_down" />
+     <Action name="note_move_left" />
+     <Action name="note_move_right" />
+     <Action name="note_move_begin" />
+     <Action name="note_move_end" />
+  </ToolBar>
+  <ToolBar name="link">
+     <text>Links toolbar</text>
+     <Action name="link_add" />
+     <Action name="link_open" />
+  </ToolBar>
+  <State name="notesPresent">
+  <Enable>
+    <Action name="file_export_html" />
+    <Action name="file_info" />
+    <Action name="edit_bold"/>
+    <Action name="edit_italic"/>
+    <Action name="edit_underline"/>
+    <Action name="edit_color"/>
+    <Action name="edit_superscript"/>
+    <Action name="edit_subscript"/>
+    <Action name="edit_align_normal"/>
+    <Action name="edit_align_left"/>
+    <Action name="edit_align_right"/>
+    <Action name="edit_align_center"/>
+    <Action name="edit_align_justify"/>
+    <Action name="goto_note"/>
+    <Action name="edit_insert_date"/>
+    <Action name="edit_insert_file"/>
+    <Action name="edit_raw_text"/>
+    <Action name="note_add_child"/>
+    <Action name="note_delete"/>
+    <Action name="note_rename"/>
+    <Action name="note_move_up" />
+    <Action name="note_move_down" />
+    <Action name="note_move_left" />
+    <Action name="note_move_right" />
+    <Action name="note_move_begin" />
+    <Action name="note_move_end" />
+    <Action name="note_sort" />
+    <Action name="note_expand_all"/>
+    <Action name="note_expand"/>
+    <Action name="note_collapse_all"/>
+    <Action name="note_collapse"/>
+    <Action name="note_statistics" />
+    <Action name="link_add"/>
+    <Action name="link_remove"/>
+    <Action name="link_open"/>
+    <Action name="link_open_with"/>
+    <Action name="link_modify"/>
+    <Action name="link_copy"/>
+    <Action name="edit_copy" />
+    <Action name="edit_cut" />
+    <Action name="edit_paste" />
+    <Action name="edit_find" />
+    <Action name="edit_find_next" />
+    </Enable>
+  </State>
+</kpartgui>

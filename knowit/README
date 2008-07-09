@@ -1,0 +1,19 @@
+KnowIt is a simple tool for managing notes. It is similar to
+TuxCards, but KDE-based. Notes are organized in tree-like hierarchy,
+texts are in RichText format, so bold, italic and lists are supported,
+with more to come.
+
+I started this project because I cannot make TuxCards handle non-ASCII
+characters properly, moreover it kept crashing. I wanted also more
+functionality (see TODO). KnowIt should handle any characters properly,
+as files are saved in UTF8 and KDE takes care of proper display for current
+language/charset.
+
+If you have any suggestions, wishes, tips, do not hesitate to write to me.
+Spelling and grammar corrections are most welcomed, too, as well as
+programming suggestions (this is my first KDE project so far).
+
+My address: 
+Michal Rudolf <mrudolf@kdewebdev.org>
+
+KnowIt homepage: http://knowit.sourceforge.net

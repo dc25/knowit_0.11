@@ -1,0 +1,63 @@
+TODO for KnowIt
+---------------
+
+1. GUI-related items
+--------------------
+
+Editor: 
+* color chooser: last color and some predefined (with shortcuts)
+* sort selected text (problem: how to sort text inside HTML tags?)
+* advanced search (fuzzy search, filters, keywords etc.)
+* inserting images/tables etc. (probably impossible in current Qt version)
+* rich text copy/cut (now only text is copied from note to note); Qt bug?
+* templates: RichText structures which can be autofilled with relevant info
+* spellchecking
+
+Links:
+* add browse button for local links 
+* link local notes by id, not name (after 1.0 - requires new file format)
+* reorder link popup menu commands
+
+Tree:
+* update icons after reordering
+* configurable pixmaps for notes (after 1.0 - requires new file format)
+* list of notes containing given text (+filters?)
+* selectable list of all notes
+
+Others:
+* status bar: more information? (lines, words, paragraphs, notes,
+  filters, results of some commands?)
+* multiple KnowIt documents in single tabbed window;
+  it would required moving some variables from knowit.cpp
+  to knowitdoc.cpp (to allow different documents). Edit/Items
+  may be then functions, not variables, returning current document
+  editor/tree. 
+* add 'Quick add entry' command to taskbar
+* add 'Paste as new note' command
+
+Export:
+* handle local links
+* strip <p></p> and <div></div> at the end of text
+
+2. Non-GUI items
+----------------
+
+File:
+* proper handling of text-format notes
+* password - allow files to be encrypted (useful for holding passwords)
+* store tree state on save: which nodes are open. (after 1.0 - requires new file format)
+* speed up loading large files
+
+Import/export:
+* export to text
+* improve printing (print more than current note). Problem: how to select
+   notes for printing? How to print bigger document?
+* optionally print/export links
+
+Internals:
+* make some actions KSelectActions (f. e. alignment)
+* undo for deleting/moving notes (how?)
+* check accelerators?
+
+Documentation:
+* update tips

@@ -1,0 +1,4 @@
+*.gmo
+*.mo
+Makefile.in
+Makefile.am

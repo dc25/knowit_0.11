@@ -1,0 +1,938 @@
+# translation of pl.po to Polish
+# translation of knowit.po to Polish
+# Copyright (C) 2002,2003, 2004 Free Software Foundation, Inc.
+# Michal Rudolf <mrudolf@kdewebdev.org>, 2002,2004.
+# Michal Rudolf <m.rudolf@uw.edu.pl>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pl\n"
+"POT-Creation-Date: 2004-03-31 14:12+0200\n"
+"PO-Revision-Date: 2004-03-31 14:13+0200\n"
+"Last-Translator: Michal Rudolf <m.rudolf@uw.edu.pl>\n"
+"Language-Team: Polish <kde-transl@mer.chemia.polsl.gliwice.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+
+#: knowitapp.moc.cpp:34 knowitapp.moc.cpp:42
+msgid "KnowitApplication"
+msgstr "KnowitApplication"
+
+#: knowitchooser.cpp:35
+msgid "&Exported notes:"
+msgstr "&Eksportowane notatki:"
+
+#: knowitchooser.cpp:38
+msgid "All"
+msgstr "Wszystkie"
+
+#: knowitchooser.cpp:39
+msgid "Current with children"
+msgstr "Aktualna i podnotatki"
+
+#: knowitchooser.cpp:40
+msgid "Current only"
+msgstr "Tylko aktualna"
+
+#: knowitchooser.cpp:42
+msgid "&Encoding:"
+msgstr "&Kodowanie:"
+
+#: knowitchooser.cpp:45
+msgid "Local (8-bit)"
+msgstr "Lokalne (8-bitowe)"
+
+#: knowitchooser.cpp:46
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: knowitchooser.cpp:49
+msgid "Numbered titles"
+msgstr "Numerowane nagłówki"
+
+#: knowitchooser.cpp:51 notes.cpp:249
+msgid "Table of contents"
+msgstr "Spis treści"
+
+#: knowitchooser.cpp:53
+msgid "Rule betweeen notes"
+msgstr "Linia między notatkami"
+
+#: knowitchooser.cpp:55
+msgid "Use editor font and colors"
+msgstr "Czcionka i kolory edytora"
+
+#: knowitchooser.moc.cpp:34 knowitchooser.moc.cpp:42
+msgid "KnowitChooser"
+msgstr "KnowitChooser"
+
+#: knowit.cpp:53
+msgid "untitled"
+msgstr "bez tytułu"
+
+#: knowit.cpp:59
+msgid "Ready"
+msgstr "Gotowe"
+
+#: knowit.cpp:74
+msgid "Move it to change tree/edit layout."
+msgstr "Tu można zmienić proporcje między listą notatek a tekstem."
+
+#: knowit.cpp:85
+msgid ""
+"<h2>Note text</h2>Add text for selected note here.\n"
+"Text can be formatted, for example <b>bold</b> or <i>italic</i>."
+msgstr ""
+"<h2>Tekst notatki</h2>Tu można edytować tekst notatki.\n"
+"Tekst może być sformatowany, np. <b>pogrubiony</b> lub <i>kursywa</i>."
+
+#: knowit.cpp:111
+msgid "&Export to HTML..."
+msgstr "Eksportuj do &HTML..."
+
+#: knowit.cpp:114
+msgid "Document &information..."
+msgstr "&Informacje o dokumencie..."
+
+#: knowit.cpp:124
+msgid "Toggle &bold"
+msgstr "Przełącz po&grubienie"
+
+#: knowit.cpp:126
+msgid "Toggle &italic"
+msgstr "Przełącz k&ursywę"
+
+#: knowit.cpp:129
+msgid "Toggle &underline"
+msgstr "Przełącz &podkreślenie"
+
+#: knowit.cpp:132
+msgid "&Text color..."
+msgstr "&Kolor tekstu..."
+
+#: knowit.cpp:134
+msgid "&Superscript"
+msgstr "Indeks &górny"
+
+#: knowit.cpp:136
+msgid "&Subscript"
+msgstr "Indeks &dolny"
+
+#: knowit.cpp:138
+msgid "&Normal text"
+msgstr "&Zwykły tekst"
+
+#: knowit.cpp:140
+msgid "&Bullet list"
+msgstr "&Wypunktowanie"
+
+#: knowit.cpp:142
+msgid "&Numbered list"
+msgstr "Lista &numerowana"
+
+#: knowit.cpp:144
+msgid "&Uppercase list"
+msgstr "&Wielkie litery"
+
+#: knowit.cpp:146
+msgid "&Lowercase list"
+msgstr "&Małe litery"
+
+#: knowit.cpp:148
+msgid "N&o list"
+msgstr "&Zwykły tekst"
+
+#: knowit.cpp:152
+msgid "&Go to &note..."
+msgstr "&Idź do notatki..."
+
+#: knowit.cpp:154
+msgid "Align &left"
+msgstr "Wyrównaj do &lewej"
+
+#: knowit.cpp:156
+msgid "Align &right"
+msgstr "Wyrównaj do &prawej"
+
+#: knowit.cpp:158
+msgid "&Justify"
+msgstr "Wy&justuj"
+
+#: knowit.cpp:160
+msgid "&Center"
+msgstr "Wyś&rodkuj"
+
+#: knowit.cpp:162
+msgid "Insert &date"
+msgstr "Wstaw &datę"
+
+#: knowit.cpp:164
+msgid "Insert &file..."
+msgstr "Wstaw &plik..."
+
+#: knowit.cpp:166
+msgid "&Raw Text Mode"
+msgstr "Edycja źródła &HTML"
+
+#: knowit.cpp:179
+msgid "&Add"
+msgstr "&Dodaj"
+
+#: knowit.cpp:181
+msgid "Add &subnote"
+msgstr "Dodaj p&odrzędną"
+
+#: knowit.cpp:185
+msgid "&Rename"
+msgstr "&Zmień nazwę"
+
+#: knowit.cpp:187
+msgid "E&xpand all"
+msgstr "R&ozwiń wszystko"
+
+#: knowit.cpp:189
+msgid "&Expand current"
+msgstr "&Rozwiń aktualną"
+
+#: knowit.cpp:191
+msgid "Co&llapse all"
+msgstr "Z&wiń wszystko"
+
+#: knowit.cpp:193
+msgid "&Collapse current"
+msgstr "&Zwiń aktualną"
+
+#: knowit.cpp:195
+msgid "Move up"
+msgstr "Przesuń w górędół"
+
+#: knowit.cpp:197
+msgid "Move down"
+msgstr "Przesuń w dół"
+
+#: knowit.cpp:199
+msgid "Move level up"
+msgstr "Przesuń wyżej w hierarchi"
+
+#: knowit.cpp:201
+msgid "Move level down"
+msgstr "Przesuń niżej w hierarchi"
+
+#: knowit.cpp:203
+msgid "Move at the beginning"
+msgstr "Przesuń na początek"
+
+#: knowit.cpp:205
+msgid "Move at the end"
+msgstr "Przesuń na koniec"
+
+#: knowit.cpp:207
+msgid "Sort"
+msgstr "Sortuj"
+
+#: knowit.cpp:211
+msgid "&Add link..."
+msgstr "Dodaj &odnośnik..."
+
+#: knowit.cpp:213
+msgid "&Remove link"
+msgstr "&Usuń odnośnik"
+
+#: knowit.cpp:215
+msgid "Open link"
+msgstr "Otwórz odnośnik"
+
+#: knowit.cpp:217
+msgid "Open link with..."
+msgstr "Otwórz odnośnik w..."
+
+#: knowit.cpp:219
+msgid "&Modify link..."
+msgstr "&Modyfikuj odnośnik..."
+
+#: knowit.cpp:221
+msgid "&Copy link location"
+msgstr "&Skopiuj lokację odnośnika"
+
+#: knowit.cpp:230
+msgid "&Tip of the day"
+msgstr "Porada &dnia"
+
+#: knowit.cpp:234
+msgid "Minimize"
+msgstr "Minimalizuj"
+
+#: knowit.cpp:236
+msgid "Switch area"
+msgstr "Przełącz aktywne pole"
+
+#: knowit.cpp:238
+msgid "Overwrite Mode"
+msgstr "Tryb edycji"
+
+#: knowit.cpp:240
+msgid "Go to previous note"
+msgstr "Idź do poprzedniej notatki"
+
+#: knowit.cpp:242
+msgid "Go to next note"
+msgstr "Idź do następnej notatki"
+
+#: knowit.cpp:244
+msgid "Go to first note"
+msgstr "Idź do pierwszej notatki"
+
+#: knowit.cpp:246
+msgid "Go to last note"
+msgstr "Idź do ostatniej notatki"
+
+#: knowit.cpp:248
+msgid "Go to first subnote"
+msgstr "Idź do notatki podrzędnej"
+
+#: knowit.cpp:250
+msgid "Go to parent note"
+msgstr "Idź do notatki nadrzędnej"
+
+#: knowit.cpp:262 knowit.cpp:1228
+msgid "INS"
+msgstr "WST"
+
+#: knowit.cpp:306
+msgid ""
+"<qt><p>Cannot open resource file <b>knowitui.rc</b>. Some of the menus and "
+"toolbars will be missing.</p><p>Probably Knowit was not installed properly. "
+"If you installed from source, please invoke <i>make install</i>.If you use "
+"precompiled package, please contact packager.</p></qt>"
+msgstr ""
+"<qt><p>Nie można otworzyć pliku zasobów <b>knowitui.rc</b>. Niektóre menu i "
+"paski narzędziowe nie będą dostępne.\n"
+"</p><p>Zapewne KnowIt nie został zainstalowany poprawnie. Jeśli program był "
+"kompilowany, proszę wykonać polecenie <i>make install</i>. Jeśli program był "
+"instalowany z pakietu, proszę skontaktować się z twórcą pakietu.</p></qt>"
+
+#: knowit.cpp:323 knowit.cpp:1131
+msgid "<qt>Cannot open file<br><b>%1</b></qt>"
+msgstr "<qt>Nie można otworzyć pliku<br><b>%1</b></qt>"
+
+#: knowit.cpp:374
+msgid "File %1 opened."
+msgstr "Plik %1 został wczytany."
+
+#: knowit.cpp:389
+msgid "<qt>Cannot save file<br><b>%1</b></qt>"
+msgstr "<qt>Nie można zapisać pliku<br><b>%1</b></qt>"
+
+#: knowit.cpp:405
+msgid "File %1 saved."
+msgstr "Plik %1 został zapisany."
+
+#: knowit.cpp:441
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"cannot be saved. Quit anyway?</qt>"
+msgstr ""
+"<qt>Nie można zapisać pliku<br>\n"
+"<b>%1</b>. Zakończyć mimo to?</qt>"
+
+#: knowit.cpp:446
+msgid ""
+"<qt>File <b>%1</b><br>\n"
+"was modified. Do you want to save it?</qt>"
+msgstr ""
+"<qt>Plik <b>%1</b><br>\n"
+"został zmodyfikowany. Zapisać go?</qt>"
+
+#: knowit.cpp:463
+msgid "untitled.kno"
+msgstr "nienazwany.kno"
+
+#: knowit.cpp:489
+msgid "<qt>Sought text:<br><b>%1</b><br>not found.</qt>"
+msgstr "<qt>Poszukiwany tekst:<br><b>%1</b><br>nie został znaleziony.</qt>"
+
+#: knowit.cpp:621
+msgid "Add note"
+msgstr "Dodaj notatkę"
+
+#: knowit.cpp:622 knowit.cpp:646
+msgid "Note title:"
+msgstr "Tytuł notatki:"
+
+#: knowit.cpp:641
+msgid "You have to choose note before adding subnote."
+msgstr "Musisz wybrać notatkę przed dodaniem notatki podrzędnej."
+
+#: knowit.cpp:645
+msgid "Add subnote"
+msgstr "Dodaj notatkę podrzędną"
+
+#: knowit.cpp:666
+msgid ""
+"<qt>Are you sure you want to delete note<br><b>%1</b><br> and its subnotes?</"
+"qt>"
+msgstr "<qt>Na pewno usunąć notatkę<br><b>%1</b><br> wraz z podnotatkami?</qt>"
+
+#: knowit.cpp:668
+msgid "<qt>Are you sure you want to delete note<br><b>%1</b>?</qt>"
+msgstr "<qt>Na pewno usunąć notatkę<br><b>%1</b>?</qt>"
+
+#: knowit.cpp:838 knowit.cpp:875
+msgid ""
+"*.kno|KnowIt files (*.kno)\n"
+"*|All files"
+msgstr ""
+"*.kno|Pliki KnowIt (*.kno)\n"
+"*|Wszystkie pliki"
+
+#: knowit.cpp:838
+msgid "Open File..."
+msgstr "Otwórz plik..."
+
+#: knowit.cpp:857
+msgid ""
+"<qt><p>File couldn not be saved automatically.<p>Autosaving disabled - save "
+"file manually to turn autosaving on.</p></qt>"
+msgstr ""
+"<qt><p>Nie można zapisać pliku automatycznie.</p>"
+"<p>Zapisywanie automatyczne zostało wyłączone - proszę zapisać plik ręcznie, by ponownie włączyć autozapisywanie.</p></qt>"
+
+#: knowit.cpp:875
+msgid "Save as..."
+msgstr "Zapisz jako..."
+
+#: knowit.cpp:881 knowit.cpp:973
+msgid "<qt>File<br><b>%1</b><br>already exists. Overwrite it?</qt>"
+msgstr "<qt>Plik<br><b>%1</b><br>już istnieje. Zastąpić go?</qt>"
+
+#: knowit.cpp:897
+msgid "<qt><h1>%1</h1>Document path: %2<br>Number of notes: %3</qt>"
+msgstr "<qt><h1>%1</h1>Ścieżka: %2<br>Liczba notatek: %3</qt>"
+
+#: knowit.cpp:967
+msgid ""
+"*.html|HTML files (*.html)\n"
+"*|All files"
+msgstr ""
+"*.html|Dokumenty HTML (*.html)\n"
+"*|Wszystkie pliki"
+
+#: knowit.cpp:967
+msgid "Export to HTML"
+msgstr "Eksportuj do HTML"
+
+#: knowit.cpp:1092
+msgid "Go to"
+msgstr "Idź do"
+
+#: knowit.cpp:1093
+msgid "Go to page with given title"
+msgstr "Idź do notatki o podanym tytule"
+
+#: knowit.cpp:1126 knowitlink.cpp:90
+msgid "*|All files"
+msgstr "*|Wszystkie pliki"
+
+#: knowit.cpp:1126
+msgid "Insert file..."
+msgstr "Wstaw plik..."
+
+#: knowit.cpp:1227
+msgid "OVR"
+msgstr "NAD"
+
+#: knowit.cpp:1263
+msgid ""
+"You have just added your first link. Please remember that only links are "
+"stored in Knowit document, not linked files. If you move your document to "
+"other computer, links to local files probably won't work."
+msgstr ""
+"Właśnie dodałeś pierwszy odnośnik. Pamiętaj, że w dokumencie Knowit "
+"zapisywane są jedynie odnośniki, nie zaś pliki, do których odsyłają. Jeśli "
+"przeniesiesz dokument na inny komputer, odnośniki do plików lokalnych "
+"najprawdopodobniej nie będą działać."
+
+#: knowit.cpp:1273
+msgid "<qt>Are you sure you want to remove link:<br><b>%1</b>?</qt>"
+msgstr "<qt>Na pewno usunąć odnośnik<br><b>%1</b>?</qt>"
+
+#: knowitedit.moc.cpp:34 knowitedit.moc.cpp:42
+msgid "KnowitEdit"
+msgstr "KnowitEdit"
+
+#: knowitlink.cpp:34
+msgid "Modify link"
+msgstr "Modyfikuj odnośnik"
+
+#: knowitlink.cpp:40
+msgid "Referenced item:"
+msgstr "Typ odnośnika:"
+
+#: knowitlink.cpp:42
+msgid "File or URL"
+msgstr "Plik lub URL"
+
+#: knowitlink.cpp:43
+msgid "KnowIt note"
+msgstr "Notatka KnowIt"
+
+#: knowitlink.cpp:55
+msgid "Link description:"
+msgstr "Opis odnośnika:"
+
+#: knowitlink.cpp:90
+msgid "Choose link..."
+msgstr "Wybierz odnośnik..."
+
+#: knowitlink.moc.cpp:34 knowitlink.moc.cpp:42
+msgid "KnowitLinkDialog"
+msgstr "KnowitLinkDialog"
+
+#: knowitlinks.moc.cpp:34 knowitlinks.moc.cpp:42
+msgid "KnowitLinks"
+msgstr "KnowitLinks"
+
+#: knowit.moc.cpp:34 knowit.moc.cpp:42
+msgid "Knowit"
+msgstr "KnowIt"
+
+#: knowitpref.cpp:96
+msgid "New note"
+msgstr "Nowa notatka"
+
+#: knowitpref.cpp:132
+msgid "KnowIt Preferences"
+msgstr "Ustawienia KnowIt"
+
+#: knowitpref.cpp:138
+msgid "General"
+msgstr "Ogólne"
+
+#: knowitpref.cpp:138
+msgid "General options"
+msgstr "Ustawienia ogólne"
+
+#: knowitpref.cpp:141
+msgid "&Dock in System tray"
+msgstr "Pokaż na &tacce systemowej"
+
+#: knowitpref.cpp:142
+msgid "Open &last file on startup"
+msgstr "Otwórz poprzedni plik po &uruchomieniu"
+
+#: knowitpref.cpp:146
+msgid "Autosave:"
+msgstr "Autozapis:"
+
+#: knowitpref.cpp:148
+msgid "every "
+msgstr "co "
+
+#: knowitpref.cpp:149
+msgid " min."
+msgstr " min."
+
+#: knowitpref.cpp:150
+msgid "Never"
+msgstr "nigdy"
+
+#: knowitpref.cpp:151
+msgid ""
+"Current file will be automatically saved after the specified interval. Set "
+"to <i>never</i> to disable autosave."
+msgstr ""
+"Aktualny plik będzie automatycznie zapisywany po podanym czasie. Ustawienie "
+"<i>nigdy</i> wyłączy autozapis."
+
+#: knowitpref.cpp:154
+msgid "Automatically save file on e&xit"
+msgstr "Automatycznie zapisz plik przy &wyjściu"
+
+#: knowitpref.cpp:156
+msgid "Current file will be automatically saved on exit without confirmation."
+msgstr "Aktualny plik będzie bez potwierdzenia zapisywany przy zamykaniu programu."
+
+#: knowitpref.cpp:158
+msgid "Create &backups"
+msgstr "Twórz pliki &zapasowe"
+
+#: knowitpref.cpp:160
+msgid "Create backup of current document before it is saved."
+msgstr "Tworzy kopię aktualnego pliku przed jego zapisaniem."
+
+#: knowitpref.cpp:161
+msgid "Allow &multiple instances of KnowIt"
+msgstr "Dopuść &wiele okien programu Knowit"
+
+#: knowitpref.cpp:163
+msgid ""
+"If this option is disabled, only one instance of KnowIt will be allowed. If "
+"there is another instance already running, it will be automatically "
+"activated instead of running new one."
+msgstr ""
+"Jeśli ta opcja jest wyłączona, możliwe będzie uruchomienie tylko jednej "
+"kopii programu. Jeśli inna kopia już działa, zostaniesz automatycznie "
+"przełączony do niej."
+
+#: knowitpref.cpp:170
+msgid "Interface"
+msgstr "Interfejs"
+
+#: knowitpref.cpp:170
+msgid "Interface options"
+msgstr "Ustawienia interfejsu"
+
+#: knowitpref.cpp:173
+msgid "Split window &horizontally"
+msgstr "Podziel okno w &pionie"
+
+#: knowitpref.cpp:174
+msgid ""
+"If this option is set, notes tree will be displayed on the left and the "
+"editor on the right (this is default).<br>Otherwise notes tree will be "
+"displayed at the top and the editor at the bottom."
+msgstr ""
+"Jeśli ta opcja jest włączona, drzewo notatek będzie wyświetlane po lewej, a "
+"edytor po prawej (to jest ustawienie domyślne).<br>W przeciwnym razie drzewo "
+"notatek będzie wyświetlone u góry, a edytor u dołu."
+
+#: knowitpref.cpp:180
+msgid "Default note name:"
+msgstr "Domyślna nazwa notatki:"
+
+#: knowitpref.cpp:182
+msgid ""
+"Default name for new notes. It would be autoselected, so if you often copy "
+"text using mouse selection, you may consider setting default name to none."
+msgstr ""
+"Domyślna nazwa nowych notatek. Będzie ona zaznaczona automatycznie, więc "
+"jeśli kopiujesz tekst zaznaczony myszką, rozważ ustawienie tej nazwy na "
+"pustą."
+
+#: knowitpref.cpp:188
+msgid "Link format:"
+msgstr "Format odnośnika:"
+
+#: knowitpref.cpp:190
+msgid "Description (link)"
+msgstr "Opis (odnośnik)"
+
+#: knowitpref.cpp:191
+msgid "Link (description)"
+msgstr "Odnośnik (opis)"
+
+#: knowitpref.cpp:192
+msgid "Link only"
+msgstr "Tylko odnośnik"
+
+#: knowitpref.cpp:193
+msgid "Description only"
+msgstr "Tylko opis"
+
+#: knowitpref.cpp:197
+msgid "Alternate colors in tree"
+msgstr "Przemienne kolory listy"
+
+#: knowitpref.cpp:200
+msgid "Automatically collapse other notes"
+msgstr "Automatycznie zwiń pozostałe notatki"
+
+#: knowitpref.cpp:201
+msgid ""
+"If this option is set, only current subtree will be visible, other notes "
+"will be automatically collapsed."
+msgstr ""
+"Jeśli ta opcja jest włączona, tylko aktualne poddrzewo będzie widoczne, "
+"reszta notatek będzie automatycznie zwijana."
+
+#: knowitpref.cpp:207
+msgid "Editor"
+msgstr "Edytor"
+
+#: knowitpref.cpp:207
+msgid "Editor options"
+msgstr "Ustawienia edytora"
+
+#: knowitpref.cpp:210
+msgid "Use &word wrap"
+msgstr "Za&wijanie słów"
+
+#: knowitpref.cpp:212
+msgid "'Enter' ends current line, not paragraph"
+msgstr "'Enter' wstawia koniec wiersza, nie akapitu"
+
+#: knowitpref.cpp:214
+msgid "'Tab' in editor changes focus"
+msgstr "'Tab' w edytorze zmienia aktywny element"
+
+#: knowitpref.cpp:221
+msgid "Use &custom colors"
+msgstr "Użyj własnych &kolorów"
+
+#: knowitpref.cpp:230
+msgid "Use custom font:"
+msgstr "Użyj własnej czcionki:"
+
+#: knowitpref.cpp:242
+msgid "Templates"
+msgstr "Wzorce"
+
+#: knowitpref.cpp:242
+msgid "Templates configuration"
+msgstr "Konfiguracja wzorców"
+
+#: knowitpref.cpp:245
+msgid ""
+"<html>\n"
+"<p>These expressions may be used: </p>\n"
+"<table>\n"
+"<tr><th>d</th><td>the day as number without a leading zero (1-31)</td></tr>\n"
+"<tr><th>dd</th><td>the day as number with a leading zero (01-31)</td></tr>\n"
+"<tr><th>ddd</th><td>the abbreviated localized day name (e.g. 'Mon'..'Sun')</"
+"td></tr>\n"
+"<tr><th>dddd</th><td>the long localized day name (e.g. 'Monday'..'Sunday')</"
+"td></tr>\n"
+"<tr><th>M</th><td>the month as number without a leading zero (1-12)</td></"
+"tr>\n"
+"<tr><th>MM</th><td>the month as number with a leading zero (01-12)</td></"
+"tr>\n"
+"<tr><th>MMM</th><td>the abbreviated localized month name (e.g. 'Jan'..'Dec')"
+"</td></tr>\n"
+"<tr><th>MMMM</th><td>the long localized month name (e.g. "
+"'January'..'December')</td></tr>\n"
+"<tr><th>yy</th><td>the year as two digit number (00-99)</td></tr>\n"
+"<tr><th>yyyy</th><td>the year as four digit number (1752-8000)</td></tr>\n"
+"<tr><th>h</th><td>the hour without a leading zero (0..23 or 1..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>hh</th><td>the hour with a leading zero (00..23 or 01..12 if AM/PM "
+"display)</td></tr>\n"
+"<tr><th>m</th><td>the minute without a leading zero (0..59)</td></tr>\n"
+"<tr><th>mm</th><td>the minute with a leading zero (00..59)</td></tr>\n"
+"<tr><th>s</th><td>the second without a leading zero (0..59)</td></tr>\n"
+"<tr><th>ss</th><td>the second with a leading zero (00..59)</td></tr>\n"
+"<tr><th>AP</th><td>use AM/PM display</td></tr>\n"
+"<tr><th>AP</th><td>use am/pm display</td></tr>\n"
+"</table></html>"
+msgstr ""
+
+#: knowitpref.cpp:270
+msgid "Date Format: "
+msgstr "Format daty: "
+
+#: knowitpref.moc.cpp:34 knowitpref.moc.cpp:42
+msgid "KnowitPreferences"
+msgstr "KnowitPreferences"
+
+#: knowittray.cpp:24
+msgid "&Undock"
+msgstr "&Usuń z tacki systemowej"
+
+#: knowittree.cpp:29
+msgid "Notes"
+msgstr "Notatki"
+
+#: knowittree.cpp:38
+msgid ""
+"<h2>Notes hierarchy</h2>Here you can browse notes tree. You can also add "
+"notes using right-click menu, or reorganize them using drag and drop."
+msgstr ""
+"<h2>Hierarchia notatek</h2>Tu można przeglądać listę notatek. Można także "
+"dodawać i usuwać notatki, a także zmieniać ich pozycję."
+
+#: knowittree.moc.cpp:34 knowittree.moc.cpp:42
+msgid "KnowitTree"
+msgstr "KnowitTree"
+
+#: main.cpp:25
+msgid "KnowIt - notes management utility"
+msgstr "KnowIt - zarządzanie notatkami"
+
+#: main.cpp:30
+msgid "Document to open"
+msgstr "Dokument do otwarcia"
+
+#: main.cpp:36
+msgid "KnowIt"
+msgstr "KnowIt"
+
+#: main.cpp:40 _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Michał Rudolf"
+
+#: main.cpp:41 _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "mrudolf@kdewebdev.org"
+
+#: notes.cpp:239
+msgid "KnowIt document"
+msgstr "Dokument KnowIt"
+
+#: notes.cpp:258
+msgid "Exported from %1 by KnowIt %2, %3."
+msgstr "Utworzone %3 w programie KnowIt %2 z pliku %1."
+
+#: rc.cpp:1
+msgid "&Font"
+msgstr "&Czcionka"
+
+#: rc.cpp:2
+msgid "&Paragraph"
+msgstr "&Akapit"
+
+#: rc.cpp:3
+msgid "&List"
+msgstr "&Lista"
+
+#: rc.cpp:4 rc.cpp:9
+msgid "&Notes"
+msgstr "&Notatki"
+
+#: rc.cpp:5 rc.cpp:10
+msgid "&Position"
+msgstr "&Pozycja"
+
+#: rc.cpp:6 rc.cpp:11
+msgid "&Tree"
+msgstr "D&rzewo"
+
+#: rc.cpp:7 rc.cpp:8
+msgid "&Links"
+msgstr "&Odnośniki"
+
+#: rc.cpp:12
+msgid "Edit toolbar"
+msgstr "Pasek narzędzi: edycja"
+
+#: rc.cpp:13
+msgid "Notes toolbar"
+msgstr "Pasek narzędzi: notatki"
+
+#: rc.cpp:14
+msgid "Links toolbar"
+msgstr "Pasek narzędzi: odnośniki"
+
+#: tips.cpp:3
+msgid "<p>...that you can insert a breakline using <tt>Control+Enter</tt>?\n"
+msgstr "<p>...można wstawić koniec wiersza klawiszami <tt>Control+Enter</tt>?\n"
+
+#: tips.cpp:7
+msgid ""
+"<p>...that you can create list, starting lines with <tt>*</tt>\n"
+"or <tt>-<tt>?\n"
+msgstr ""
+"<p>... można utworzyć listę, zaczynając wiersz <tt>*</tt>\n"
+"lub <tt>-<tt>?\n"
+
+#: tips.cpp:12
+msgid ""
+"<p>...that if KnowIt is docked on logout, it would be reopen and\n"
+"docked next time you start KDE?\n"
+msgstr ""
+"<p>...jeśli Knowit jest w tacce systemowej przy wylogowaniu, \n"
+"będzie uruchomiony w tym samym stanie przy następnym uruchamianiu KDE?\n"
+
+#: tips.cpp:17
+msgid "<p>...that you can disable toolbar using Options->Configure...?\n"
+msgstr "<p>...można wyłączyć pasek narzędzi w menu Ustawienia->Konfiguruj...?\n"
+
+#: tips.cpp:21
+msgid ""
+"<p>...that you can configure all shortcuts using\n"
+"Options->Configure shortcuts?\n"
+msgstr ""
+"<p>...można skonfigurować kombinacje klawiszy\n"
+"Ustawienia->Konfiguracja skrótów?\n"
+
+#: tips.cpp:26
+msgid "<p>...that you can always invoke Tip window using Help menu?\n"
+msgstr "<p>...można włączyć Porady dnia z menu Pomocy?\n"
+
+#: tips.cpp:30
+msgid ""
+"<p>...that you can change current note with <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+msgstr ""
+"<p>... że możesz zmienić aktualną notatkę skrótami <tt>Alt+Up</tt>,\n"
+"<tt>Alt+Down</tt>, <tt>Alt+Left</tt>, <tt>Alt+Right</tt>,\n"
+"<tt>Alt+Home</tt> and <tt>Alt+End</tt>, even if editor is active?\n"
+
+#: tips.cpp:36
+msgid ""
+"<p>...that you can move current note with <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, even if editor is "
+"active?\n"
+msgstr ""
+"<p>... możesz przenieść aktualną notatkę skrótami: <tt>Alt+Shift+Up</tt>,\n"
+"<tt>Alt+Shift+Down</tt>, <tt>Alt+Shift+Left</tt>, <tt>Alt+Shift+Right</tt>,\n"
+"<tt>Alt+Shift+Home</tt> and <tt>Alt+Shift+End</tt>, nawet jeśli edytor jest "
+"aktywny?\n"
+
+#: tips.cpp:42
+msgid ""
+"<p>...that you can toggle Insert Mode from normal insert to overwrite \n"
+"by either pressing <tt>Insert</tt> button or by clicking on the status \n"
+"in the status bar?\n"
+msgstr ""
+"<p>...można zmieniać tryb edycji (zastępowanie/wstawianie), \n"
+"wciskając klawisz <tt>Insert</tt> lub klikając na pasku stanu?\n"
+
+#~ msgid "&Character set:"
+#~ msgstr "&Kodowanie:"
+
+#~ msgid "Configure output"
+#~ msgstr "Konfiguracja wyników"
+
+#~ msgid "Choose notes"
+#~ msgstr "Wybierz notatki"
+
+#~ msgid ""
+#~ "*.kno|Knowit files (*.kno)\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.kno|Pliki KnowIt (*.kno)\n"
+#~ "*|Wszystkie pliki"
+
+#~ msgid "Modify &description..."
+#~ msgstr "Modyfikuj &opis..."
+
+#~ msgid "Add link"
+#~ msgstr "Dodaj odnośnik"
+
+#~ msgid "Modify description"
+#~ msgstr "Modyfikuj opis"
+
+#~ msgid "Enter description for current link:"
+#~ msgstr "Opis aktualnego odnośnika:"
+
+#~ msgid "New subnote"
+#~ msgstr "Nowa podnotatka"
+
+#~ msgid "Date &Format"
+#~ msgstr "&Format daty"
+
+#~ msgid "Add &subnote..."
+#~ msgstr "Dodaj &notatkę podrzędną..."
+
+#~ msgid "&Tutorial"
+#~ msgstr "&Samouczek"
+
+#~ msgid "Cannot move this note."
+#~ msgstr "Nie można przenieść tej notatki."
+
+#~ msgid "Add note from list"
+#~ msgstr "Dodaj notatkę na liście"
+
+#~ msgid "Add subnote in notes list"
+#~ msgstr "Dodaj podnotatkę na liście"
+
+#~ msgid "Delete subnote from notes list"
+#~ msgstr "Usuń notatkę z listy"
+

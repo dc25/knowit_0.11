@@ -1,0 +1,192 @@
+KNOWIT CHANGELOG
+================
+
+  + added
+  - removed
+  ~ changed/modified
+  # bug fixed
+
+VERSIONS:
+
+Knowit 0.11a1   2005-09-15
+
+    - removed KDE 3.1 backward compatibility
+    + statistics: information about current note and file
+
+Knowit 0.10	2004-03-31
+
+    + add list formatting menu commands
+    # fix Alt+Ctrl+End moving to the end of notes
+    # fix parent note icon update after child is moved
+    ~ minor compilation fixes and optimizations
+
+Knowit 0.10b4	2004-03-14
+    
+    + warn when knowituirc is missing
+    + link URL copy command
+    + remember maximization state
+    + use KTextEdit instead of QTextEdit
+    + properly handle read-only documents on quit and autosave
+    # improve note management from keyboard (Alt+Right)
+    ~ upgraded project to new KDevelop
+    # remove deprecated function calls
+
+Knowit 0.10b3	2004-01-07
+    + automatically expand note when dragging another over [+]
+    + drag&drop URLs/files onto editor or links widget
+    + added Delete/Enter/Ctrl+Enter shortcuts for links widget
+    # unconditional save option setting was not remembered
+    # backup file was not saved
+    # backup file on open only, not on every save
+        
+Knowit 0.10b2	2003-12-19
+    # fixed bug when exporting selected node with children
+    + links should be exported properly now
+    # compilation problem fixed on some systems
+
+Knowit 0.10b1	2003-12-14
+    + more configurable output: numbered headers, table of contents,
+      charset(UTF8/local), editor font/color, optional rule between notes
+    + when dragging, automatically scroll note list if necessary
+    + configurable toolbars
+
+KnowIt 0.9	2003-12-12
+    # fixed wrong e-mail address
+    ~ updated German, Hungarian Polish and Spanish translations
+    # minor bugfix in export
+
+KnowIt 0.9b3	2003-10-31
+    + editor font is configurable (modified patch by Florian Kolter, thanks!)
+    ~ e-mail adress updated
+    ~ documentation updated
+    ~ some spelling corrections
+    ~ some translations updated
+
+KnowIt 0.9b2	2003-06-29
+    + added better link editor
+    + links to local KnowIt notes added
+    # fixed removing link with description
+    + editor colors are now configurable
+
+KnowIt 0.9b1	2003-06-25
+    ~ Enter from numpad also inserts breakline
+    + now it is possible to disable Tab in editor
+    ~ switch to IconList GUI in Options dialog, GUI cleanup
+    # some fixed to fix compilation in KDE 3.0.x
+    + optionally automatically backup current file
+    ~ TODO file rewritten
+
+KnowIt 0.9a3	2003-05-31
+    + icons for links added
+    + option to save file on exit without confirmation
+    + configurable link format
+    + Enter inserts breakline, not paragraph end by default
+    + many toolbars
+    ~ UI/XML interface used
+    # fixed crash on 'Raw text format' without selected note
+    # fixed restoring current note bug
+    # fixed re-appearing of first-time message about links handling
+    + MIME file for KnowIt
+
+KnowIt 0.9a2	2003-05-20
+    ~ enhanced links support
+    + option to allow only one instance of KnowIt running
+    ~ many changed to saving options/querying on close/quit
+    ~ improved session management
+
+KnowIt 0.9a1	2003-05-18
+    + added links and descriptions
+
+KnowIt 0.8	2003-05-04
+    + minimize to tray shortcut added
+    # disable query when closing window with tray support enabled 
+    ~ most translations updated
+
+KnowIt 0.8beta1	2003-04-25
+
+    + more functions to manage notes
+    + shortcuts for managing notes
+    + shortcuts for changing current note
+    + ability to sort subnotes
+    + window could be split horizontally or vertically
+    ~ better default date format
+    + support for alternate colors in the tree
+    + default new note name can be set
+    # fix compilation with --enable-final
+    ~ Find command finds subsequent occurencies in current note
+    + option to autocollapse nonactive notes
+    
+KnowIt 0.7	2003-04-02
+
+   + Superscript/subscript commands
+   + Insert/Overwrite edit mode
+   + configurable word wrap
+   + Raw Text mode, allowing direct editing of HTML source of the note
+   # all editing commands are now disabled when note tree is empty
+   + AutoSave
+   + configurable date format
+
+KnowIt 0.6	2003-01-10
+	
+   + Hungarian translation added (by Karoly Szilagyi}
+   + Spanish translation added (by Eloy Cuadra)
+   ~ updated Chinese translation, now it installs in locale/zn_CN
+   # 'Insert date' bug fixed
+   # 'Go to note' icon doesn't stay pressed on toolbar
+   ~ ChangeLog format changed (inspired by KickPIM)
+   + added 'text color' icon
+   + added text alignment configuration
+   + added Tip of the day
+   + added 'Insert file' command
+   # added i18n() for some messages to allow translation
+   ~ TODO updated
+   ~ temporarily disabled node tree shortcuts (they conflict with
+     some other keys)
+   ~ hompeage has changed to http://KnowIt.sourceforge.net
+
+KnowIt 0.5	2002-12-13
+
+   + Slovak translation added (by Pavol Cvengros)
+   + French translation added (by Stephane Nicolas)
+   + toolbar added
+   + Bold/Italic/Underline commands now show current state
+   + editor disabled when no notes are present
+   # compile fix for FreeBSD (thanks to Alan Eldridge)
+   ~ new subnote is added as the last one, not the first one
+   ~ added some comments in the code (KnowIt.h)
+
+KnowIt 0.4	2002-11-28
+
+   # don't reopen last file if it wasn't found previous time
+   # grave bug fixed (hopefully) - single note text was not saved
+   + don't close KnowIt on window close if docked 
+       (thanks to Steff for suggestion)
+   + centered system tray icon (thanks to Steff for code)
+   + added Expand/Collapse all/current for notes tree
+   # fixed bad icon name for Edit->Toggle underline
+   + added configuration dialog
+   + documentation fixes (thanks to Thilo Roessler and Larry Poorman)
+   + Chinese translation (by hansen)
+   + German translation (by Michael Buesch)
+
+KnowIt 0.3	2002-11-22
+	
+   + shortcuts for notes tree
+   + notes menu, shortcuts for adding/deleting/renaming notes
+   + add note: get note title
+   # GUI fixes: activate added note
+   + all shortcuts are now configurable
+   ~ internal rewrite of notes handling 
+   + export to HTML: experimental support for HTML export - suggestions
+       about better formatting would be welcomed
+   + application is docked if it was docked on startup
+
+KnowIt 0.2	2002-11-16
+
+   # save as: warning if file already exists
+   # open recent: fixed detection of file changes, remove URL on failure
+   + add color support for note text
+   + added basic system tray support
+   + print: basic printing support
+
+KnowIt 0.1	2002-11-02

@@ -1,0 +1,16 @@
+Begin3
+Title:          KnowIt -- Some description
+Version:        0.11alpha1
+Entered-date:   
+Description:    
+Keywords:       KDE Qt
+Author:         Michal Rudolf <mrudolf@kdewebdev.org>
+Maintained-by:  Michal Rudolf <mrudolf@kdewebdev.org>
+Home-page:      
+Alternate-site: 
+Primary-site:   ftp://ftp.kde.org/pub/kde/unstable/apps/utils
+                xxxxxx  knowit-0.11alpha1.tar.gz
+                xxx     knowit-0.11alpha1.lsm
+Platform:       Linux. Needs KDE
+Copying-policy: GPL
+End
